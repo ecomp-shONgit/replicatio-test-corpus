@@ -1,0 +1,2636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In Vergilii Bucolicon librum</title>
+        <author>Servius</author>
+        <funder>Volkswagen Foundation</funder>
+      </titleStmt>
+      <editionStmt>
+        <p>The electronic version of Servius In Vergilii Bucolicon librum from G. Thilo, Servii Grammatici Qui Feruntur in Vergilii Bucolica et Georgica Commentarii, Teubner, Leipzig 1887 was created in 2023 as part of the project "(Ir)reproducibility of Scientific Research in the Digital Humanities?".</p>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Leipzig University, Trier University</publisher>
+        <pubPlace>Leipzig, Trier</pubPlace>
+        <date type="release">2023</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under Creative Commons Attribution-Noncommercial-Share Alike 4.0 International</licence>
+        </availability>
+        <idno type="CTS">urn:cts:classics:latLit.phi2349006bucolicon.replicatio.v02</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Servius</author>
+            <editor>G. Thilo</editor>
+            <title>Servii Grammatici Qui Feruntur in Vergilii Bucolica et Georgica Commentarii</title>
+            <title type="sub">In Vergilii Bucolicon librum</title>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Teubner</publisher>
+              <date when="1887">1887</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="01" when="2023-06-19">Initial version</change>
+      <change n="02" when="2023-11-13">Kƚ. resolved, character encoding errors corrected</change>
+    </revisionDesc>
+  </teiHeader>
+ <text>
+   <body>
+<div type="poem" n="t">
+<div type="verse" n="1">
+</div>
+</div>
+<div type="poem" n="pr">
+<div type="verse" n="1">
+</div>
+</div>
+<div type="poem" n="1">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+</div>
+<div type="verse" n="2">
+</div>
+<div type="verse" n="4">
+</div>
+<div type="verse" n="5">
+</div>
+<div type="verse" n="7">
+</div>
+<div type="verse" n="8">
+</div>
+<div type="verse" n="9">
+</div>
+<div type="verse" n="10">
+</div>
+<div type="verse" n="11">
+</div>
+<div type="verse" n="12">
+</div>
+<div type="verse" n="13">
+</div>
+<div type="verse" n="15">
+</div>
+<div type="verse" n="16">
+</div>
+<div type="verse" n="17">
+</div>
+<div type="verse" n="18">
+</div>
+<div type="verse" n="19">
+</div>
+<div type="verse" n="20">
+</div>
+<div type="verse" n="21">
+</div>
+<div type="verse" n="22">
+</div>
+<div type="verse" n="26">
+</div>
+<div type="verse" n="27">
+</div>
+<div type="verse" n="28">
+</div>
+<div type="verse" n="29">
+</div>
+<div type="verse" n="31">
+</div>
+<div type="verse" n="32">
+</div>
+<div type="verse" n="33">
+</div>
+<div type="verse" n="34">
+</div>
+<div type="verse" n="36">
+</div>
+<div type="verse" n="37">
+</div>
+<div type="verse" n="38">
+</div>
+<div type="verse" n="39">
+</div>
+<div type="verse" n="40">
+</div>
+<div type="verse" n="42">
+</div>
+<div type="verse" n="43">
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+</div>
+<div type="verse" n="46">
+</div>
+<div type="verse" n="47">
+</div>
+<div type="verse" n="48">
+</div>
+<div type="verse" n="49">
+</div>
+<div type="verse" n="51">
+</div>
+<div type="verse" n="52">
+</div>
+<div type="verse" n="53">
+</div>
+<div type="verse" n="54">
+</div>
+<div type="verse" n="55">
+</div>
+<div type="verse" n="56">
+</div>
+<div type="verse" n="57">
+</div>
+<div type="verse" n="58">
+</div>
+<div type="verse" n="59">
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="61">
+</div>
+<div type="verse" n="62">
+</div>
+<div type="verse" n="63">
+</div>
+<div type="verse" n="64">
+</div>
+<div type="verse" n="65">
+</div>
+<div type="verse" n="66">
+</div>
+<div type="verse" n="67">
+</div>
+<div type="verse" n="68">
+</div>
+<div type="verse" n="69">
+</div>
+<div type="verse" n="70">
+</div>
+<div type="verse" n="71">
+</div>
+<div type="verse" n="73">
+</div>
+<div type="verse" n="74">
+</div>
+<div type="verse" n="76">
+</div>
+<div type="verse" n="77">
+</div>
+<div type="verse" n="78">
+</div>
+<div type="verse" n="80">
+</div>
+<div type="verse" n="81">
+</div>
+<div type="verse" n="82">
+</div>
+<div type="verse" n="83">
+</div>
+</div>
+<div type="poem" n="2">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+</div>
+<div type="verse" n="2">
+</div>
+<div type="verse" n="3">
+</div>
+<div type="verse" n="4">
+</div>
+<div type="verse" n="5">
+</div>
+<div type="verse" n="6">
+</div>
+<div type="verse" n="7">
+</div>
+<div type="verse" n="8">
+</div>
+<div type="verse" n="9">
+</div>
+<div type="verse" n="10">
+</div>
+<div type="verse" n="11">
+</div>
+<div type="verse" n="12">
+</div>
+<div type="verse" n="14">
+</div>
+<div type="verse" n="15">
+</div>
+<div type="verse" n="17">
+</div>
+<div type="verse" n="18">
+</div>
+<div type="verse" n="20">
+</div>
+<div type="verse" n="21">
+</div>
+<div type="verse" n="23">
+</div>
+<div type="verse" n="24">
+</div>
+<div type="verse" n="25">
+</div>
+<div type="verse" n="26">
+</div>
+<div type="verse" n="27">
+</div>
+<div type="verse" n="28">
+</div>
+<div type="verse" n="29">
+</div>
+<div type="verse" n="30">
+</div>
+<div type="verse" n="31">
+</div>
+<div type="verse" n="34">
+</div>
+<div type="verse" n="35">
+</div>
+<div type="verse" n="36">
+</div>
+<div type="verse" n="38">
+</div>
+<div type="verse" n="40">
+</div>
+<div type="verse" n="41">
+</div>
+<div type="verse" n="43">
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+</div>
+<div type="verse" n="46">
+</div>
+<div type="verse" n="47">
+</div>
+<div type="verse" n="49">
+</div>
+<div type="verse" n="50">
+</div>
+<div type="verse" n="51">
+</div>
+<div type="verse" n="52">
+</div>
+<div type="verse" n="53">
+</div>
+<div type="verse" n="54">
+</div>
+<div type="verse" n="55">
+</div>
+<div type="verse" n="56">
+</div>
+<div type="verse" n="57">
+</div>
+<div type="verse" n="58">
+</div>
+<div type="verse" n="59">
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="61">
+</div>
+<div type="verse" n="63">
+</div>
+<div type="verse" n="65">
+</div>
+<div type="verse" n="66">
+</div>
+<div type="verse" n="67">
+</div>
+<div type="verse" n="68">
+</div>
+<div type="verse" n="69">
+</div>
+<div type="verse" n="70">
+</div>
+<div type="verse" n="71">
+</div>
+<div type="verse" n="72">
+</div>
+<div type="verse" n="73">
+</div>
+</div>
+<div type="poem" n="3">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+</div>
+<div type="verse" n="2">
+</div>
+<div type="verse" n="3">
+</div>
+<div type="verse" n="4">
+</div>
+<div type="verse" n="5">
+</div>
+<div type="verse" n="7">
+</div>
+<div type="verse" n="8">
+</div>
+<div type="verse" n="9">
+</div>
+<div type="verse" n="10">
+</div>
+<div type="verse" n="11">
+</div>
+<div type="verse" n="12">
+</div>
+<div type="verse" n="13">
+</div>
+<div type="verse" n="15">
+</div>
+<div type="verse" n="16">
+</div>
+<div type="verse" n="17">
+</div>
+<div type="verse" n="18">
+</div>
+<div type="verse" n="20">
+</div>
+<div type="verse" n="23">
+</div>
+<div type="verse" n="24">
+</div>
+<div type="verse" n="25">
+</div>
+<div type="verse" n="26">
+</div>
+<div type="verse" n="27">
+</div>
+<div type="verse" n="28">
+</div>
+<div type="verse" n="29">
+</div>
+<div type="verse" n="30">
+</div>
+<div type="verse" n="31">
+</div>
+<div type="verse" n="32">
+</div>
+<div type="verse" n="33">
+</div>
+<div type="verse" n="34">
+</div>
+<div type="verse" n="36">
+</div>
+<div type="verse" n="37">
+</div>
+<div type="verse" n="38">
+</div>
+<div type="verse" n="39">
+</div>
+<div type="verse" n="40">
+</div>
+<div type="verse" n="41">
+</div>
+<div type="verse" n="43">
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+</div>
+<div type="verse" n="46">
+</div>
+<div type="verse" n="49">
+</div>
+<div type="verse" n="50">
+</div>
+<div type="verse" n="53">
+</div>
+<div type="verse" n="56">
+</div>
+<div type="verse" n="59">
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="61">
+</div>
+<div type="verse" n="62">
+</div>
+<div type="verse" n="63">
+</div>
+<div type="verse" n="65">
+</div>
+<div type="verse" n="66">
+</div>
+<div type="verse" n="67">
+</div>
+<div type="verse" n="68">
+</div>
+<div type="verse" n="69">
+</div>
+<div type="verse" n="71">
+</div>
+<div type="verse" n="73">
+</div>
+<div type="verse" n="74">
+</div>
+<div type="verse" n="75">
+</div>
+<div type="verse" n="76">
+</div>
+<div type="verse" n="77">
+</div>
+<div type="verse" n="79">
+</div>
+<div type="verse" n="80">
+</div>
+<div type="verse" n="82">
+</div>
+<div type="verse" n="84">
+</div>
+<div type="verse" n="85">
+</div>
+<div type="verse" n="86">
+</div>
+<div type="verse" n="88">
+</div>
+<div type="verse" n="89">
+</div>
+<div type="verse" n="90">
+</div>
+<div type="verse" n="91">
+</div>
+<div type="verse" n="92">
+</div>
+<div type="verse" n="93">
+</div>
+<div type="verse" n="94">
+</div>
+<div type="verse" n="96">
+</div>
+<div type="verse" n="98">
+</div>
+<div type="verse" n="102">
+</div>
+<div type="verse" n="103">
+</div>
+<div type="verse" n="104">
+</div>
+<div type="verse" n="105">
+</div>
+<div type="verse" n="106">
+</div>
+<div type="verse" n="107">
+</div>
+<div type="verse" n="108">
+</div>
+<div type="verse" n="109">
+</div>
+<div type="verse" n="111">
+</div>
+</div>
+<div type="poem" n="4">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+<seg rend="italic" type="Danielis">ergo non 'maiora', sed 'paulo maiora'</seg>
+</div>
+<div type="verse" n="2">
+<seg rend="italic" type="Danielis">et sterilia, quod vulgo tamaricium
+dicitur</seg>
+</div>
+<div type="verse" n="3">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">si canimvs silvas silvae sint c. d.</hi> id est misceatur illis honos,
+ut dignae sint consule, id est filio consulis Asinii Pollionis.</seg>
+</div>
+<div type="verse" n="4">
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis">vel</seg>
+<seg rend="italic" type="Danielis">vel ab initio: Cato de suo consulatu
+"omnia ab integro paranda erant"</seg>
+<seg rend="italic" type="Danielis">et saeculum quidam centum annorum definiunt, quidam
+centum decem: Horatius "certus undenos decies per annos".</seg>
+</div>
+<div type="verse" n="6">
+<seg rend="italic" type="Danielis">filia Themidis,
+&lt;cum&gt; inter homines versaretur, propter eorum scelera terras reliquit:
+quam ideo virginem dicunt, quod sit incorrupta iustitia</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">satvrnia regna</hi> aurea
+saecula, quia Saturnus aureo saeculo regnasse dicitur.</seg>
+</div>
+<div type="verse" n="7">
+<seg rend="italic" type="Danielis">vel</seg>
+<seg rend="italic" type="Danielis">vel</seg>
+<seg rend="italic" type="Danielis">unde est
+"te consule inibit"</seg>
+</div>
+<div type="verse" n="8">
+</div>
+<div type="verse" n="10">
+<seg rend="italic" type="Danielis">Lucinam</seg>
+<seg rend="italic" type="Danielis">seu te penitus" [iunonem]</seg>
+<seg rend="italic" type="Danielis">sane hic Dianam Lucinam
+non inmerito designat; prior enim genita parturienti matri Apollinem
+tulisse auxilium dicitur. Nigidius de diis lib. <hi rend="small-caps">iv.</hi> "quidam deos
+et eorum genera temporibus et aetatibus &lt;dispescunt&gt;, inter
+quos et Orpheus primum regnum Saturni, deinde Iovis, tum
+Neptuni, inde Plutonis; nonnulli etiam, ut magi, aiunt,
+Apollinis fore regnum: in quo videndum est, ne ardorem,
+sive illa ecpyrosis appellanda est, dicant". quidam hoc loco
+'casta fave Lucina, tuus iam regnat Apollo' Octaviam sororem Augusti
+significari adfirmant ipsumque Augustum Apollinem.</seg>
+</div>
+<div type="verse" n="11">
+<seg rend="italic" type="Danielis">et ideo 'inibit', non 'iniit', quia consul designatus erat. quidam
+Saloninum Pollionis filium accipiunt, alii Asinium Gallum, fratrem
+Salonini, qui prius natus est Pollione consule designato. Asconius Pedianus
+a Gallo audisse se refert, hanc eclogam in honorem eius factam.</seg>
+</div>
+<div type="verse" n="12">
+<seg rend="italic" type="Danielis">possumus et 'magni' pulchri accipere, id est
+aurei saeculi.</seg>
+</div>
+<div type="verse" n="13">
+<seg rend="italic" type="Danielis">iuxta Leucaten</seg>
+</div>
+<div type="verse" n="14">
+</div>
+<div type="verse" n="15">
+</div>
+<div type="verse" n="16">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">illis</hi> deest 'ab', est 'ab illis'.</seg>
+</div>
+<div type="verse" n="17">
+<seg rend="italic" type="Danielis">vel
+certe 'patriis' * .</seg>
+</div>
+<div type="verse" n="18">
+<seg rend="italic" type="Danielis">et 'nullo cultu', id est inarata
+edet sua sponte nata.</seg>
+</div>
+<div type="verse" n="19">
+</div>
+<div type="verse" n="20">
+<seg rend="italic" type="Danielis">suavi, iucundo, fulgenti, ut "ridet
+argento domus": vel quod hians et patens nascitur</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">colocasia</hi> hanc herbam videri vult in
+honorem Augusti crevisse: quae Romae post devictam ab eo Aegyptum
+innotuit. et dicendo 'fundet' abundantiam floris ostendit.</seg>
+</div>
+<div type="verse" n="21">
+<seg rend="italic" type="Danielis">magna</seg>
+<seg rend="italic" type="Danielis">id est
+sua sponte</seg>
+</div>
+<div type="verse" n="22">
+</div>
+<div type="verse" n="23">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">blandos</hi> iucundos, ut puero.</seg>
+</div>
+<div type="verse" n="24">
+<seg rend="italic" type="Danielis">ordo autem est herba veneni †alia qui. 'fallax' ergo aut fallens videntes,
+aut fallentis veneni.</seg>
+</div>
+<div type="verse" n="25">
+<seg rend="italic" type="Danielis">omnibus
+locis</seg>
+</div>
+<div type="verse" n="26">
+<seg rend="italic" type="Danielis">et bono
+ordine primo poetas, deinde historicos, deinde philosophos legendos dicit.</seg>
+</div>
+<div type="verse" n="27">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">iam legere</hi> id est cum coeperis imbui studiis liberalibus.</seg>
+<seg rend="italic" type="Danielis">enim</seg>
+</div>
+<div type="verse" n="28">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">molli</hi> fertili.</seg>
+</div>
+<div type="verse" n="29">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">incvltisqve r. p. s. v.</hi> id est ubique erit uva.</seg>
+</div>
+<div type="verse" n="30">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">et dvrae q. s. r. m.</hi> id est quae hodie roscida, olim quercus
+sudabunt.</seg>
+</div>
+<div type="verse" n="31">
+<seg rend="italic" type="Danielis">aut
+fraudem pro sollertia posuit.</seg>
+</div>
+<div type="verse" n="32">
+</div>
+<div type="verse" n="34">
+<seg rend="italic" type="Danielis">vel re vera Tiphys, vel qualis Tiphys,
+Argonautarum gubernator. sane</seg>
+<seg rend="italic" type="Danielis">sane fabula de
+hoc gubernatore talis est: Pelias cum accepisset responsum ab Apolline,
+fore ut ab eo privaretur regno et vita, qui altero pede nudo ei sacrificanti
+occurrisset, forte vidit Iasonem nudo pede venisse, qui dum Iunonem,
+transmutatam in anuis speciem, credens mortalem, petentem per
+vadum fluminis transferret, alteram ex caligis in limo amiserat. igitur
+Pelias, metuens ex responsis fata, iussit eum Colchos proficisci ad petendam
+auream pellem arietis, qui Phrixum et Hellen Colchos pertulerat.
+qui fabricata navi, quam ab Argo fabricatore Argo appellavit,
+contractaque iuventute Graeciae, Tiphyn habuit gubernatorem. sane
+quidam Argo a celeritate dictam volunt, unde verso in latinum verbo,
+argutos celeres dici. socii vero Iasonis Minyae appellati sunt vel ab
+agro huius nominis Colchorum, vel quod multi ex quadam Minya nati
+Iasoni se coniunxerint, vel quod Minya Iasoni materna avia fuerit.
+qui autem cum Iasone profecti sint, apud eos qui de fabulis scripserunt,
+plenius invenitur.</seg>
+</div>
+<div type="verse" n="35">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">heroas</hi> heroas quidam a terra dictos volunt, quod terra ἜΡΑ
+dicta sit, unde initio nati creduntur homines, qui nomen a matre traxerunt.</seg>
+</div>
+<div type="verse" n="37">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">te fecerit aetas</hi> 'aetas' hoc loco modum annorum significat,
+ut "aetas Lucinam iustosque pati hymenaeos", nam subdidit "desinit
+ante decem, post quattuor incipit annos"; alias pro tempore
+posita, ut "veniet lustris labentibus aetas".</seg>
+</div>
+<div type="verse" n="38">
+<seg rend="italic" type="Danielis">sane 'vector' tam is qui vehitur, quam qui vehit, dicitur, id est et
+nauta et mercator. <hi rend="small-caps">mvtabit merces</hi> quia antiqui res rebus mutabant.</seg>
+</div>
+<div type="verse" n="42">
+</div>
+<div type="verse" n="43">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ipse sed in pratis a. i. s. r. m. i. c. m. v. l.</hi> hoc in honorem
+vel laudem Augusti refert. traditur enim in libris Etruscorum,
+si hoc animal miro et insolito colore fuerit infectum, omnium rerum
+felicitatem imperatori portendi. 'ipse' autem quod addidit, non vacat:
+nam sunt quaedam pronomina, quae addita nominibus faciunt dignitatem,
+ut "ipse modo Aeneas" et "Turnus ego". sane in Numae legibus
+cautum est, ut, siquis inprudens occidisset hominem, pro capite
+occisi agnatis eius in cautione offerret arietem. ergo hic bene videtur
+arieti dignitatem dare dicendo 'ipse', qui oblatus homicidam crimine
+homicidii possit exsolvere. <hi rend="small-caps">iam</hi> significat 'modo'.</seg>
+</div>
+<div type="verse" n="44">
+<seg rend="italic" type="Danielis">similis conchyliis,</seg>
+<seg rend="italic" type="Danielis">alba per naturam</seg>
+</div>
+<div type="verse" n="45">
+</div>
+<div type="verse" n="46">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">talia saecla s. d. c. f.</hi> ordo est 'talia saecula currite fusis
+suis parcae dixerunt'. <hi rend="small-caps">cvrrite</hi> volvite.</seg>
+</div>
+<div type="verse" n="47">
+</div>
+<div type="verse" n="49">
+<seg rend="italic" type="Danielis">sane Iovem merito puerorum dicunt incrementa
+curare, quia cum pueri togam virilem sumpserint, ad Capitolium
+eunt. nam et in <hi rend="small-caps">viiii.</hi> Ascanius in Numanum intendens
+sagittam, Iovem magis invocavit "Iuppiter omnipotens, audacibus
+annue coeptis".</seg>
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis">et bene quasi renascentem describit</seg>
+</div>
+<div type="verse" n="51">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">tractvs</hi> a magnitudine dictum accipitur. et bene per haec
+omnia mundum divisit.</seg>
+</div>
+<div type="verse" n="53">
+</div>
+<div type="verse" n="55">
+</div>
+<div type="verse" n="57">
+<seg rend="italic" type="Danielis">autem</seg>
+<seg rend="italic" type="Danielis">Linus Apollinis et Psamathes filius, qui theologiam scribit.
+<hi rend="small-caps">calliopea</hi> graeca declinatio. <hi rend="small-caps">adsint</hi> pro 'faveant'.</seg>
+</div>
+<div type="verse" n="58">
+</div>
+<div type="verse" n="60">
+<seg rend="italic" type="Danielis">se</seg>
+<seg rend="italic" type="Danielis">parentes</seg>
+<seg rend="italic" type="Danielis">quia praegnantes
+solent fastidia pati</seg>
+</div>
+<div type="verse" n="62">
+<seg rend="italic" type="Danielis">aut</seg>
+<seg rend="italic" type="Danielis">alii dicunt, quod cum Vulcanus parentes suos diu quaereret
+nec inveniret, sedile fecit tale, ut in eo qui sedisset surgere non
+posset. in quo cum adsedisset Iuno nec posset exsurgere, Vulcanus negavit
+se soluturum omnino, nisi prius parentes suos sibi monstrasset:
+atque ita factum est, ut in deorum numerum reciperetur. sane 'nec
+deus hunc mensa' alii ita intellegunt, quasi tam cito extinctus sit, ut
+nec Veneri nec Libero potuerit operari.</seg>
+</div>
+</div>
+<div type="poem" n="5">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+</div>
+<div type="verse" n="2">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">tv calamos inflare leves ego dicere versvs</hi> aut 'calamos
+leves', aut 'leves versus', id est subtiles; sed melius est 'calamos leves'.
+'boni dicere' autem graecum est ἱκανὸς λέγειν. 'dicere' sane pro 'canere',
+ut "Dianam tenerae dicite virgines": ponitur et pro 'nominare',
+ut "Italiam dixisse ducis de nomine gentem".</seg>
+</div>
+<div type="verse" n="3">
+</div>
+<div type="verse" n="4">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">tv maior</hi> id est vel natu vel merito.</seg>
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis">umbras</seg>
+<seg rend="italic" type="Danielis">sane 'succedimus' et
+dativo et accusativo casibus, secutus tam veterem quam nostram consuetudinem
+suo more iungit 'sive umbras succedimus sive antro', cum
+alibi secutus tantum antiquos dativo tantum succedere iunxerit: "ac nostris
+succede penatibus" et "successitque gemens stabulis". Sallustius
+tamen 'succedere' accusativo iunxit, sed ubi 'prope' significat:
+"cum murum hostium successisset, poenas dederat", hoc est cum
+prope murum accessisset. 'succedere' autem idem significat quod et
+'subire', id est penitus intrare.</seg>
+</div>
+<div type="verse" n="7">
+<seg rend="italic" type="Danielis">vel
+quod sapore acerbo labra laedat</seg>
+</div>
+<div type="verse" n="8">
+</div>
+<div type="verse" n="9">
+</div>
+<div type="verse" n="10">
+<seg rend="italic" type="Danielis">Sithonis filia,</seg>
+</div>
+<div type="verse" n="11">
+<seg rend="italic" type="Danielis">comes Herculis,
+ita peritus, ut ictus eius non falleretur: namque positos supra
+capita hominum anulos traiciebat; capillos spiculis sagittarum rumpebat;
+sagittas sine ferro, positis ex adverso gladiorum lancearumve mucronibus,
+findebat</seg>
+<seg rend="italic" type="Danielis">merito ergo 'laudes', quia talia fecerat.</seg>
+<seg rend="italic" type="Danielis">et hostes scientes a Codro abstinerent,</seg>
+<seg rend="italic" type="Danielis">nam Athenienses eo proelio vicerunt</seg>
+</div>
+<div type="verse" n="13">
+</div>
+<div type="verse" n="14">
+</div>
+<div type="verse" n="16">
+</div>
+<div type="verse" n="17">
+</div>
+<div type="verse" n="18">
+<seg rend="italic" type="Danielis">et
+bene satis fecit, in quo reprehensus est, quod Mopso Amyntam comparasset.</seg>
+</div>
+<div type="verse" n="19">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">desine</hi> omitte, ut "desine Maenalios". Sallustius
+"bellum quibus posset condicionibus desineret".</seg>
+</div>
+<div type="verse" n="20">
+<seg rend="italic" type="Danielis">quem mater sua compressa
+a Mercurio et enixa abiecit. hunc pastores invenerunt inter
+lauros &lt;et&gt; Daphnin vocaverunt: quem Pan musicen docuisse dicitur.
+qui cum et venationis et musices peritissimus esset, adamatus a nympha
+est; qui etiam iure iurando adstrictus est, ne cum alia concumberet.
+hic dum boves persequitur, ad regiam pervenit, et ob pulchritudinem
+appetitus, cum regis filia consuetudinem miscuit. hoc cum nympha
+rescisset, luminibus eum orbavit. ille in auxilium patrem Mercurium
+invocavit: qui eum in caelum eripuit et in eo loco fontem elicuit, qui
+Daphnis vocatur, apud quem quotannis Siculi sacrificant</seg>
+<seg rend="italic" type="Danielis">sed si de Gaio Caesare dictum est, multi
+per matrem Venerem accipiunt, per leones et tigres populos quos subegit,
+per thiasos sacra quae pontifex instituit, per formosum pecus populum
+Romanum.</seg>
+</div>
+<div type="verse" n="21">
+</div>
+<div type="verse" n="22">
+</div>
+<div type="verse" n="23">
+</div>
+<div type="verse" n="25">
+<seg rend="italic" type="Danielis">ut
+ipse</seg>
+</div>
+<div type="verse" n="28">
+</div>
+<div type="verse" n="29">
+</div>
+<div type="verse" n="30">
+</div>
+<div type="verse" n="32">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">decori est</hi> bene, ut pastores, similitudines
+de rebus agrestibus sumunt.</seg>
+</div>
+<div type="verse" n="34">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">tvlervnt</hi>
+pro 'abstulerunt'.</seg>
+</div>
+<div type="verse" n="35">
+<seg rend="italic" type="Danielis">dea pastoralis. <hi rend="small-caps">apollo</hi> hic</seg>
+</div>
+<div type="verse" n="36">
+</div>
+<div type="verse" n="37">
+</div>
+<div type="verse" n="38">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">pvrpvreo narcisso</hi> duo homoeoteleuta. et 'purpureo' nunc
+specioso.</seg>
+</div>
+<div type="verse" n="39">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">cardvvs</hi> spinae genus.</seg>
+<seg rend="italic" type="Danielis">vel, ut quidam volunt, spina alba</seg>
+</div>
+<div type="verse" n="40">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">hvmvm foliis</hi> id est</seg>
+<seg rend="italic" type="Danielis">sparguntur et arma"</seg>
+</div>
+<div type="verse" n="42">
+</div>
+<div type="verse" n="43">
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+<seg rend="italic" type="Danielis">et 'tale' deest 'videtur' vel aliud quid.</seg>
+</div>
+<div type="verse" n="46">
+<seg rend="italic" type="Danielis">ut "dulce satis
+umor"</seg>
+</div>
+<div type="verse" n="48">
+<seg rend="italic" type="Danielis">fabula de calamo talis est: veteres Zephyro vento unam ex horis
+coniugem adsignant, ex qua et Zephyro Carpon filium pulcherrimi
+corporis editum dicunt. quem cum Calamus, Maeandri fluvii filius,
+amaret, a Carpo mutua vice etiam ipse adamatus est. sed Carpos cum
+in Maeandrum fluvium cadens esset extinctus, Calamus, patrem propter
+hoc scelus aversatus, aufugit rogavitque Iovem, ut finem suis luctibus
+daret sibique mortem praestaret, ut amato post obitum iungeretur. quem
+miseratione Iuppiter ductus in harundinales calamos verti iussit, qui
+semper circa oras fluminum nasci solent, Carpon vero in fructus rerum
+omnium vertit, ut semper renasceretur.</seg>
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis">tollemus ad astra' quia apotheosin eius
+dicturus est.</seg>
+</div>
+<div type="verse" n="53">
+</div>
+<div type="verse" n="54">
+</div>
+<div type="verse" n="55">
+<seg rend="italic" type="Danielis">quidam
+per Stimichonem Maecenatem accipiunt; nonnulli Stimichonem patrem
+Theocriti dicunt.</seg>
+</div>
+<div type="verse" n="56">
+<seg rend="italic" type="Danielis">saepe
+tamen candidum pro pulchro ponit, ut "candida Dido" et "candida
+Maia". <hi rend="small-caps">insvetvm miratvr l. o.</hi> quasi novus deus. et quibusdam
+videtur per allegoriam Caesarem dicere, qui primus divinos honores
+meruit et divus appellatus est.</seg>
+</div>
+<div type="verse" n="57">
+<seg rend="italic" type="Danielis">et quidam 'sub pedibus'
+secundum physicos dictum volunt, qui tradunt sidera, id est planetas,
+in aethere ferri, qui intra caelum est: nam nubes vicinas esse terris
+nullus ignorat.</seg>
+</div>
+<div type="verse" n="58">
+<seg rend="italic" type="Danielis">antiqui autem 'ergo' pro 'merito' dicebant, sicut hic
+accipitur: Plautus in Persa "satin tu usque valuisti? haud
+probe. ergo edepol palles", item in Milite "hicine Achilles
+est, inquit mihi: immo eius frater, inquam, est. ergo mecastor
+pulcher".</seg>
+</div>
+<div type="verse" n="59">
+<seg rend="italic" type="Danielis">habet,</seg>
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="63">
+</div>
+<div type="verse" n="64">
+<seg rend="italic" type="Danielis">consonant</seg>
+<seg rend="italic" type="Danielis">quasi vox silvarum sit. et multi sic distingunt 'ipsa arbusta
+sonant deus' et subiungunt 'deus ille Menalca', ut sit sensus: si enim
+rupes et arbusta deum dicunt, deus est, o Menalca</seg>
+</div>
+<div type="verse" n="65">
+<seg rend="italic" type="Danielis">vel</seg>
+</div>
+<div type="verse" n="66">
+<seg rend="italic" type="Danielis">Varro
+diis superis altaria, terrestribus aras, inferis focos dicari adfirmat. alii
+'altaria' eminentia ararum et ipsa libamina, ut "paterisque altaria
+libant".</seg>
+</div>
+<div type="verse" n="67">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">novo</hi> vel recenti, vel primo tempore lactis incipiente expressum.</seg>
+</div>
+<div type="verse" n="68">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">dvo</hi> vetuste dixit, ut 'ambo': "nam saepe senex
+spe carminis ambo luserat": nam hodie hoc significatu 'duos' et
+'ambos' dicimus.</seg>
+<seg rend="italic" type="Danielis">et
+'olivi' et 'olei', nam et 'olea' et 'oliva' dicitur.</seg>
+</div>
+<div type="verse" n="69">
+</div>
+<div type="verse" n="70">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ante focvm si frigvs erit s. m. i. v.</hi> non frigori calorem
+opposuit, sed messem, quae est tempore caloris.</seg>
+</div>
+<div type="verse" n="71">
+<seg rend="italic" type="Danielis">vel illud 'vina Ariusia, novum nectar, calathis fundam'. alii novum
+mustum intellegunt, vel merum, quale numquam habuerit, ut
+"Pollio et ipse facit nova carmina".</seg>
+</div>
+<div type="verse" n="72">
+</div>
+<div type="verse" n="73">
+</div>
+<div type="verse" n="75">
+<seg rend="italic" type="Danielis">'lustrare' hic circuire: dicit enim
+ambarvale sacrificium.</seg>
+</div>
+<div type="verse" n="76">
+</div>
+<div type="verse" n="79">
+</div>
+<div type="verse" n="80">
+</div>
+<div type="verse" n="81">
+</div>
+<div type="verse" n="82">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">nam neqve tantvm</hi> quaedam per comparationem laudata maiorem
+emphasin habent, si negatio activa a parte orationis incipiat, ut
+"non sic aggeribus ruptis cum spumeus amnis exit", et "nec sic
+immissis aurigae undantia lora".</seg>
+</div>
+<div type="verse" n="85">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">cicvta</hi> fistula,
+ut "septem conpacta cicutis". et fistulae qualitatem
+per principia eclogarum ostendit, ut 'haec nos, formosum Corydon ardebat
+Alexin'.</seg>
+</div>
+<div type="verse" n="88">
+</div>
+<div type="verse" n="89">
+<seg rend="italic" type="Danielis">'non tulit' autem non
+impetravit. 'amari' pro 'qui amaretur'.</seg>
+</div>
+<div type="verse" n="90">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">formosvm p. n.</hi> et ab arte
+et a natura laudavit: 'paribus nodis' id est natura formosum; 'atque
+aere' hoc est pulchrum aere artificium.</seg>
+</div>
+</div>
+<div type="poem" n="6">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">prima syracosio</hi> character mixtus; nam et poeta praefatur et
+cantare Silenus inducitur. <hi rend="small-caps">syracosio</hi> quia Theocritum praecipue
+sequitur, quamvis multi alii bucolica scripserint. <hi rend="small-caps">lvdere versv</hi> ut
+ipse ait "carmina qui lusi pastorum".</seg>
+<seg rend="italic" type="Danielis">ostendit ergo se primum post Theocritum bucolica scripsisse.</seg>
+</div>
+<div type="verse" n="2">
+</div>
+<div type="verse" n="3">
+<seg rend="italic" type="Danielis">alii Scyllam eum scribere
+coepisse dicunt, in quo libro Nisi et Minois, regis Cretensium, bellum
+describebat; alii de bellis civilibus dicunt; alii de tragoedia Thyestis.</seg>
+</div>
+<div type="verse" n="4">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">pingves</hi> figurate 'pingues pascere', id est pascere ut pinguescant.</seg>
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">dedvctvm carmen</hi>&gt; id est bucolicum. sane
+'cum canerem reges et proelia' et 'deductum dicere carmen' quidam
+volunt hoc significasse Vergilium, se quidem altiorem de bellis et regibus
+ante bucolicum carmen elegisse materiam, sed considerata aetatis
+et ingenii qualitate mutasse consilium et arripuisse opus mollius, quatenus
+vires suas leviora praeludendo ad altiora narranda praepararet.</seg>
+</div>
+<div type="verse" n="6">
+<seg rend="italic" type="Danielis">alii Varum eum dicunt, qui in
+Germania cum tribus legionibus interiit, amissis signis, quae postea
+Germanicus, filius Drusi * am fugatoque Asinio Pollione, ab Augusto
+Alfenum Varum legatum substitutum, qui transpadanae provinciae et
+agris dividendis praeesset: qui curavit ne ager, qui Vergilio restitutus
+fuerat, a veteranis auferretur.</seg>
+</div>
+<div type="verse" n="7">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">condere</hi> conponere, ut e contrario "incondita".</seg>
+</div>
+<div type="verse" n="9">
+<seg rend="italic" type="Danielis">vel a
+Maecenate, &lt;ut&gt; te "sine nil altum mens inchoat". et hoc ideo, quia
+dixerat 'aurem vellit'.</seg>
+</div>
+<div type="verse" n="11">
+<seg rend="italic" type="Danielis">meretrix</seg>
+</div>
+<div type="verse" n="13">
+<seg rend="italic" type="Danielis">sane hoc de Sileno non dicitur fictum a Vergilio, sed
+a Theopompo translatum. is enim apprehensum Silenum a Midae regis
+pastoribus dicit, crapula madentem et ex ea soporatum; illos dolo
+adgressos dormientem vinxisse; postea vinculis sponte labentibus liberatum
+de rebus naturalibus et antiquis Midae interroganti disputavisse.
+quem alii Mercurii filium, alii Panos et nymphae, alii ex guttis cruoris
+Caeli natum esse dixerunt.</seg>
+</div>
+<div type="verse" n="14">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">pveri</hi> nonnulli 'pueri' non absurde putant dictum, quia Sileni
+priusquam senescant, satyri sunt. utrum ergo aetate pueros, an
+ut ministros et familiares solemus communiter pueros vocare?</seg>
+</div>
+<div type="verse" n="15">
+<seg rend="italic" type="Danielis">locutus est</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">vt semper</hi> bene
+addidit, id est consuetudine vini, non interdum temulentum esse.</seg>
+<seg rend="italic" type="Danielis">nam Bacchus a bacchatione, id est insania, dictus, unde et comites eius
+bacchae: alii a Bacche nympha, quae cum Brome sorore sua eum nutrierat
+in monte Nysa, a Nysa nutrice</seg>
+</div>
+<div type="verse" n="16">
+<seg rend="italic" type="Danielis">id est iuxta</seg>
+<seg rend="italic" type="Danielis">ideo</seg>
+<seg rend="italic" type="Danielis">ut est "procul aerea ramo dependet galea"</seg>
+</div>
+<div type="verse" n="17">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">pendebat</hi> manibus
+non emissum significat.</seg>
+</div>
+<div type="verse" n="18">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">adgressi</hi> ordo est, Chromis et Mnasylus adgressi Silenum;
+nam luserat ambo spe carminis. et 'spe' pollicitatione. item alius ordo
+'adgressi spe carminis iniciunt ipsis ex vincula sertis'. <hi rend="small-caps">carminis
+ambo</hi> vetuste, ut alibi "verum ubi ductores acie revocaveris ambo"
+et "eminus ambo Imbrasidas", ut "craterasque duo statuam",
+cum hodie sub eadem significatione 'ambos' et 'duos' dicamus.</seg>
+</div>
+<div type="verse" n="19">
+</div>
+<div type="verse" n="20">
+<seg rend="italic" type="Danielis">et timentibus
+ ne, dum vincula inicerent, expergefieret. <hi rend="small-caps">videnti</hi> pro 'vigilanti'.</seg>
+</div>
+<div type="verse" n="22">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">sangvineis frontem moris et t. p.</hi> multi ob hoc dictum putant,
+quod robeus color deorum sit: unde et triumphantes facie miniata,
+et in Capitolio Iuppiter in quadrigis miniatus. et bene 'pingit', non
+'inquinat'; nam iam vigilantem dixerat. sane fabula de moro talis est:
+Pyramus et Thisbe fuere ut forma pares, ita amore coniuncti: quos
+vicinos paries dividebat, cuius rima praestabat colloquium. cum amor
+crevisset ad cupiditatem, placuit ut utrique noctu extra domos procederent
+locumque coeundi statuerent ad arborem, quae ante erat albis fructuosa
+pomis. et cum prior venisset Thisbe ad locum, vidit leam. dum
+mortem fugit, vestem reliquit. in qua veste fera exercuit iram suam
+cruorisque ferae alicuius paulo ante occisae reliquit vestigia in pallio
+puellae. qua veste visa Pyramus cruentata, ratus interfectam esse
+Thisben, ob amorum ardorem se interfecit. quem praegressa e latebra
+ut vidit Thisbe exanimem, amplexa eius corpus se interfecit. ex quorum
+cruore dicitur arbor infecta: nam quae ante gerebat poma alba,
+nunc sanguinea.</seg>
+</div>
+<div type="verse" n="23">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ridens</hi> irridens. <hi rend="small-caps">qvo</hi> ad quam rem.</seg>
+</div>
+<div type="verse" n="24">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">solvite me pveri</hi> quia putaverant eum corona alligari posse.</seg>
+<seg rend="italic" type="Danielis">qui estis homines,</seg>
+</div>
+<div type="verse" n="26">
+<seg rend="italic" type="Danielis">haec autem omnia de Sileno
+a Theopompo in eo libro, qui Thaumasia appellatur, conscripta sunt.
+ipse ad commendationem addidit.</seg>
+</div>
+<div type="verse" n="27">
+<seg rend="italic" type="Danielis">vel ad certam modulationem</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">favnos</hi> fauni ab effatione
+dicti, quod voces de sacris reddebant: quod in septimo Aeneidis
+plene habes.</seg>
+</div>
+<div type="verse" n="28">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">lvdere</hi> id est illo cantante. <hi rend="small-caps">motare cacvmina</hi> montium
+vel arborum, quibus hoc genus saltationis adsignat.</seg>
+</div>
+<div type="verse" n="29">
+</div>
+<div type="verse" n="30">
+</div>
+<div type="verse" n="31">
+<seg rend="italic" type="Danielis">atomi et inane,</seg>
+<seg rend="italic" type="Danielis">ergo</seg>
+</div>
+<div type="verse" n="32">
+</div>
+<div type="verse" n="33">
+<seg rend="italic" type="Danielis">quem Cicero
+"ignitum liquorem" dicit; Lucretius "devolet in terram
+liquidi color aureus ignis"</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">vt his exordia</hi> ex seminibus, hoc
+est atomis. <hi rend="small-caps">primis</hi> pro 'principiis': quae enim Graeci στοιχεῖα, nos
+principia appellamus.</seg>
+</div>
+<div type="verse" n="34">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">tener</hi> id est recens factus.</seg>
+</div>
+<div type="verse" n="35">
+<seg rend="italic" type="Danielis">se durare coeperit solum et mixtam sibi
+ante aquam sua contractione discludere. sane 'solum' si nominativus
+est, 'durare' absolute accipiemus, et omnia quae infra dicuntur ad solum
+[et rerum terrestrium] referentur; si accusativus, ad mundi orbem
+cuncta pertinebunt</seg>
+</div>
+<div type="verse" n="36">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">et rervm pavlatim svmere formas</hi> canebat etiam, quemadmodum</seg>
+</div>
+<div type="verse" n="37">
+<seg rend="italic" type="Danielis">alii 'terrae' ad homines referunt, pro
+'qui in terra sunt'.</seg>
+</div>
+<div type="verse" n="38">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">altivs atqve cadant s. n. i.</hi></seg>
+</div>
+<div type="verse" n="40">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">animalia</hi> animantia, τὰ ἔμψυχα.</seg>
+</div>
+<div type="verse" n="41">
+<seg rend="italic" type="Danielis">sane fabula talis est: Iuppiter cum perosum haberet propter feritatem
+gigantum genus humanum, scilicet quod ex illorum sanguine editi erant
+mortales, diluvio inundavit terras omnesque homines necavit, exceptis
+Pyrrha et Deucalione, qui in monte Atho liberati sunt. sed hi ex responso
+Themidis saxis post tergum iactis genus hominum reparaverunt,
+et Pyrrha quidem reparavit feminas, Deucalio mares. alii dicunt Iovem
+Lycaonem, quod ei filium suum apposuisset epulandum, ipsum quidem
+fulmine peremisse, fecisse vero diluvium, quo homines perirent, exceptis
+Pyrrha, Epimethei filia, et Deucalione, Promethei filio, qui Parnasi
+montis altitudine defensi a diluvio sunt et hominum genus, ut supra
+dictum est, reparaverunt. sunt qui dicant non ex illis lapidibus homines
+factos, sed quia iacuissent sentibus atque fruticibus tecti, lapidibus
+excitatos.</seg>
+<seg rend="italic" type="Danielis">alii 'Saturnia
+regna' pro Iovis accipiunt, cuius regno diluvium factum volunt,
+sub Deucalione et Pyrrha, non aureo saeculo, quo Saturnus regnavit.</seg>
+</div>
+<div type="verse" n="42">
+<seg rend="italic" type="Danielis">Iapeti et Clymenes filius,</seg>
+<seg rend="italic" type="Danielis">eliciendorum</seg>
+<seg rend="italic" type="Danielis">ergo
+secundum fabulam hysterologia est: nam prius fuit, ut Prometheus crimen
+admitteret, post pateretur supplicia; qui tamen postea, praecepto
+Iovis occisa per Herculem aquila, liberatus est. alii hunc ferula ignem
+de caelo subripuisse ferunt et ideo a Iove religatum ad Caucasum et
+volucri obiectum: quem postea ab ipso Iove resolutum, quod eum monuisset
+a Thetide abstinere, quia de eius semine nasceretur, qui eum
+regno pelleret, sicut ipse Saturnum patrem. cui post sacramentum, quod
+eum numquam se soluturum iuraverat, anulum de ipsis vinculis, clauso
+de monte Caucaso lapide, dedit ad poenae praeteritae indicium.</seg>
+</div>
+<div type="verse" n="43">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">his adivngit hylam</hi> Hylas puer, Thiodamantis filius, ob
+speciem Herculi fuit carissimus, quem secutus navigantem cum Argonautis,
+in finibus Ioniis iuxta Moesiam apud fontem Caici amnis cum
+aquatum isset, a nymphis raptus est.</seg>
+<seg rend="italic" type="Danielis">per transitum rem veram
+tetigit; tertio enim ab ephebo puero in monte, comitantibus universis,
+nomen eius clamabatur.</seg>
+<seg rend="italic" type="Danielis">ordo
+tamen est: his adiungit, quomodo Hylam nautae clamassent in fonte
+relictum.</seg>
+</div>
+<div type="verse" n="46">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">fortvnatam</hi></seg>
+<seg rend="italic" type="Danielis">et enixa Minotaurum
+crimen dementiae suae publicavit. <hi rend="small-caps">amore</hi> quidam pro 'in amore'
+accipiunt</seg>
+</div>
+<div type="verse" n="47">
+<seg rend="italic" type="Danielis">et</seg>
+<seg rend="italic" type="Danielis">Calvus in Io
+"a virgo infelix, herbis pasceris amaris". quidam 'virgo' non
+quod virum illo tempore non haberet, sed quia talis ei poena iam virgini
+destinata sit, intellegunt, ob iram scilicet Veneris, quae irata Soli,
+quod se, ut quidam volunt, Anchisae, ut alii, Marti coniunctam prodidisset,
+subolem eius inhonestis amoribus subiecit, ut Circen, Medeam,
+Pasiphaen. et hoc dicit, in illa commiserabili dementia feliciores fuisse,
+quae se animalia credebant, quam Pasiphaen, quae cum sciret se hominem,
+taurum sectabatur. <hi rend="small-caps">qvae te dementia cepit</hi> hic obiurgare
+magis quam consolari videtur. an quia consolantis et hoc officium est,
+ut merentem strictim et obiurget?</seg>
+</div>
+<div type="verse" n="48">
+<seg rend="italic" type="Danielis">Lysippe,
+Iphinoe, Iphianassa</seg>
+<seg rend="italic" type="Danielis">vel,
+ut quidam volunt, cum essent antistites, ausae sunt vesti
+eius aurum detractum in usum suum convertere</seg>
+<seg rend="italic" type="Danielis">quas Melampus,
+Amythaonis filius, pacta mercede ut Iphianassam uxorem cum parte
+regni acciperet, placata Iunone, infecto fonte, ubi solitae erant bibere,
+purgavit et in pristinum sensum reduxit</seg>
+</div>
+<div type="verse" n="49">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">tvrpis</hi> deest 'earum'.</seg>
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">collo timvisset aratrvm</hi> Terentius "Syre tibi timuit".</seg>
+</div>
+<div type="verse" n="51">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">levi</hi> humana scilicet.</seg>
+</div>
+<div type="verse" n="53">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ille latvs nivevm</hi> quis eam amare non intellegat. <hi rend="small-caps">fvltvs hyacintho</hi>
+apud veteres unusquisque eo, super quod iacebat, 'fultus'
+dicebatur: Lucilius in tertio "et pulvino fultus", Vergilius "atque
+harum effultus tergo stratisque iacebat velleribus".</seg>
+</div>
+<div type="verse" n="54">
+<seg rend="italic" type="Danielis">"atque iterum pasto pascitur ante cibo", sic Ovidius.</seg>
+</div>
+<div type="verse" n="55">
+<seg rend="italic" type="Danielis">'aliquam' id est vaccam:</seg>
+<seg rend="italic" type="Danielis">proprie</seg>
+</div>
+<div type="verse" n="56">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">clavdite saltvs</hi> scilicet ne latius evagetur eoque possit investigari.</seg>
+</div>
+<div type="verse" n="57">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">si qva</hi> pro 'si' vel 'si quo modo'. <hi rend="small-caps">dictaeae</hi> Dicte mons
+in Creta, in quo Pasiphae amasse taurum dicitur.</seg>
+</div>
+<div type="verse" n="58">
+<seg rend="italic" type="Danielis">et est participium prope contra rationem figuratum: [vel] 'errabunda'
+errantia, ut 'ludibundus' ludens: Cicero "omnia ludibundus
+conficiens". <hi rend="small-caps">nostris</hi> et hic 'nostris', ut Terentius in heautontimorumeno
+"quomodo minimo periculo id demus adulescentulo",
+id est des.</seg>
+</div>
+<div type="verse" n="60">
+<seg rend="italic" type="Danielis">bene 'ad Gortynia',</seg>
+<seg rend="italic" type="Danielis">oppidum Cretae,</seg>
+</div>
+<div type="verse" n="61">
+<seg rend="italic" type="Danielis">ubi etiam de ipsis malis fabula relata
+est</seg>
+</div>
+<div type="verse" n="62">
+<seg rend="italic" type="Danielis">sane
+ingeniose hominis mentionem cum re, quae animam non habet, miscuit.
+sorores Phaethontis sucina flevisse dicuntur. et quidam alnos poetica
+consuetudine pro populis accipiunt.</seg>
+</div>
+<div type="verse" n="63">
+<seg rend="italic" type="Danielis">et est epitheton
+naturale.</seg>
+</div>
+<div type="verse" n="64">
+<seg rend="italic" type="Danielis">qui
+elegos scripsit, qui a triumviris praepositus fuit ad exigendos pecunias
+ab his municipiis, quorum agri in transpadana regione non dividebantur.
+sane Aones originem ab eo loco ducunt, ubi nunc maritima Venetia
+est.</seg>
+</div>
+<div type="verse" n="65">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">dvxerit</hi> perduxerit. <hi rend="small-caps">vna sororvm</hi> una musarum.</seg>
+</div>
+<div type="verse" n="66">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">viro</hi> Gallo. <hi rend="small-caps">phoebi chorvs</hi> id est musae.</seg>
+</div>
+<div type="verse" n="67">
+<seg rend="italic" type="Danielis">ordo autem est 'haec illi ut Linus dixerit'.</seg>
+<seg rend="italic" type="Danielis">vel qui divina canebat. <hi rend="small-caps">pastor</hi> quaeritur cur pastor
+dixerit: nisi forte, quod se poeta sub pastoris persona inducit</seg>
+</div>
+<div type="verse" n="68">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">atqve apio</hi> apud antiquos in agone erat species coronae de
+apio, sed in Nemeaeo agone, qui in honorem Archemori institutus est.
+et volunt quidam hoc coronae genus ad indicium mortis electum; aut
+quod humilis herba inmaturum de Archemoro luctum ostendat; aut
+quod supra hanc herbam reptans puer a serpente extinctus sit. sane in
+eo agone speciatim apio coronantur poetae.</seg>
+</div>
+<div type="verse" n="69">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">calamos</hi> pro fistula, ut "nec calamis solum aequiperas".</seg>
+</div>
+<div type="verse" n="70">
+<seg rend="italic" type="Danielis">de vico Boeotiae</seg>
+<seg rend="italic" type="Danielis">pascentem pecus</seg>
+<seg rend="italic" type="Danielis">cui etiam bis
+pueritiam de senectute praestitisse dicuntur, ideo ait 'quos ante seni'.</seg>
+</div>
+<div type="verse" n="72">
+<seg rend="italic" type="Danielis">a Gryno filio</seg>
+<seg rend="italic" type="Danielis">vel a Grynio,
+Moesiae civitate, ubi est locus arboribus multis iucundus, gramine floribusque
+variis omni tempore vestitus, abundans etiam fontibus. quae
+civitas nomen accepit a Gryno, Eurypyli filio, qui regnavit in Moesia,
+qui adversus Troianos Graecis auxilium tulit: Eurypylus namque filius
+Telephi, Herculis et Auges filii, ex Astyoche, Laomedontis filia, fuit,
+qui Grynum procreavit. is cum patris occupasset imperium et bello a
+finitimis temptaretur, Pergamum, Neoptolemi et Andromaches filium,
+ad auxilium de Epiro provocavit: a quo defensus, victor duas urbes
+condidit, unam Pergamum de nomine Pergami, alteram Grynium ex
+responso Apollinis. in hoc nemore Calchantem vites serentem quidam
+augur vicinus praeteriens dixit errare: non enim fas esse novum vinum
+inde gustare. at is opere absoluto vindemiaque facta cum ad cenam
+vicinos eumque ipsum augurem invitasset, protulit vinum, et cum diis
+libare in focum vellet, dixit se non solum poturum, sed etiam diis daturum
+et convivis; cui ille eadem, quae ante, respondit. ob hoc deridens
+eum Calchas adeo ridere coepit, ut repente intercluso spiritu poculum
+abiceret. Varro ait, vincla detrahi solita, id est compedes catenasque
+et alia, qui intrarunt in Apollinis Grynei lucum, et fixa arboribus.</seg>
+<seg rend="italic" type="Danielis">luco</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">dicatvr</hi> laudetur.</seg>
+</div>
+<div type="verse" n="73">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">qvo se plvs iactet</hi> in quo plus glorietur.</seg>
+</div>
+<div type="verse" n="74">
+<seg rend="italic" type="Danielis">nymphae</seg>
+<seg rend="italic" type="Danielis">virgo</seg>
+<seg rend="italic" type="Danielis">quidam Scyllam hanc a Neptuno amatam dicunt et per Amphitriten,
+coniugem Neptuni, metuentem paelicis formam, venenis Circes
+in monstrum marinum esse mutatam.</seg>
+<seg rend="italic" type="Danielis">adamatus</seg>
+<seg rend="italic" type="Danielis">vel</seg>
+<seg rend="italic" type="Danielis">quod contempta esset, vel &lt;quod&gt; quasi
+parricida a Minoe ad puppim religata tracta sit,</seg>
+<seg rend="italic" type="Danielis">Cirim</seg>
+</div>
+<div type="verse" n="76">
+<seg rend="italic" type="Danielis">vel urbe
+Dulichia in regno Vlixis</seg>
+<seg rend="italic" type="Danielis">'vexasse' est enim vis quaedam alieni arbitrii, non enim sui
+potens est, qui vehitur. bene ergo inclinatum verbum est; nam qui
+fertur et raptatur et huc atque illuc distrahitur 'vexari' proprie dicitur:
+Cato in oratione de Achaeis "cumque Hannibal terram Italiam
+laceraret atque vexaret", Cicero in Verrinis
+"sed ut a barbaris praedonibus vexata esset", item
+"di ablati, fana vexata, direptae urbes reperiuntur".</seg>
+</div>
+<div type="verse" n="77">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">a timidos navtas</hi> 'timidos nautas' nonnulli pro 'timentes'
+accipiunt. et bene 'a timidos' ex dolentis persona.</seg>
+</div>
+<div type="verse" n="78">
+<seg rend="italic" type="Danielis">Atheniensibus tulisset auxilium ac</seg>
+<seg rend="italic" type="Danielis">suam</seg>
+<seg rend="italic" type="Danielis">inclusamque in stabulis reliquit, ementitus coniugi eam perisse
+naufragio</seg>
+<seg rend="italic" type="Danielis">alii Tereum finxisse socero dicunt, Procnen uxorem
+mortuam, et petisse Philomelam in matrimonium, et hoc dolore conpulsam
+Procnen occidisse filium et epulandum patri apposuisse. quas
+cum Tereus agnito scelere insequeretur,</seg>
+<seg rend="italic" type="Danielis">quidam tamen eas navibus effugisse periculum et
+ob celeritatem fugae aves appellatas volunt.</seg>
+</div>
+<div type="verse" n="79">
+<seg rend="italic" type="Danielis">et bene avis et
+hominis miscuit mentionem. <hi rend="small-caps">qvae dona pararit</hi> quod, satiato Tereo,
+caput et pedes filii uxor intulerit.</seg>
+</div>
+<div type="verse" n="80">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">qvo cvrsv</hi> licet volatum accipere debeamus, tamen 'deserta
+petierit' potest ad hominem referri.</seg>
+</div>
+<div type="verse" n="81">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">sva tecta svpervolitaverit</hi> hoc ad avem pertinet.</seg>
+</div>
+<div type="verse" n="82">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">meditante</hi> canente.</seg>
+</div>
+<div type="verse" n="83">
+<seg rend="italic" type="Danielis">audita</seg>
+<seg rend="italic" type="Danielis">ibi namque templum
+Apollinis est; nam hunc fluvium Hyacinthi causa Apollo dicitur amasse.
+'lauros' vero multi pro vatibus accipiunt.</seg>
+</div>
+<div type="verse" n="84">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ille</hi> Silenus. <hi rend="small-caps">refervnt</hi> vel ferunt vel perferunt: quo verbo
+aliter in sequenti versu utitur.</seg>
+</div>
+<div type="verse" n="85">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">cogere donec oves stabvlis</hi> ordo est 'cogere donec oves stabulis
+Vesper iussit et invito Olympo processit'. <hi rend="small-caps">referre</hi> recensere.</seg>
+</div>
+<div type="verse" n="86">
+<seg rend="italic" type="Danielis">est etiam solis laudatio,
+cuius lucis claritas tanta est, ut ea Olympus laetetur.</seg>
+</div>
+</div>
+<div type="poem" n="7">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+</div>
+<div type="verse" n="2">
+<seg rend="italic" type="Danielis">Cicero in Pisonem
+"omni pecore compulso"</seg>
+</div>
+<div type="verse" n="4">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">florentes aetatibvs</hi> hoc est aetate florente.</seg>
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis">'cantare' autem 'parati' pro parati
+ut cantarent et responderent: vel 'pares parati' quasi pariter parati.</seg>
+</div>
+<div type="verse" n="6">
+</div>
+<div type="verse" n="7">
+</div>
+<div type="verse" n="9">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ades</hi> alii pro imperativo accipiunt, cuius pronuntiatio similis
+est indicativo: Terentius "ades dum; paucis te volo".</seg>
+</div>
+<div type="verse" n="10">
+</div>
+<div type="verse" n="11">
+<seg rend="italic" type="Danielis">haud longe a Mincio, cuius est delicias commemoraturus. alii
+dicunt loca ipsa 'prata Iuvenci' appellari</seg>
+</div>
+<div type="verse" n="12">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">praetexit</hi> praetegit, ut "non tamen Anna novis praetexere
+funera sacris".</seg>
+</div>
+<div type="verse" n="13">
+<seg rend="italic" type="Danielis">'sacra' autem 'quercus'
+aut ipsam quam vult intellegit, aut universum genus, quod et Iovis et
+olim fatidica. <hi rend="small-caps">examina</hi> apium scilicet.</seg>
+</div>
+<div type="verse" n="14">
+<seg rend="italic" type="Danielis">aut ut plerique putant, nomen
+vilicae</seg>
+</div>
+<div type="verse" n="15">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">clavderet agnos</hi> ergo varium pecus habuit.</seg>
+</div>
+<div type="verse" n="16">
+<seg rend="italic" type="Danielis">et videtur nominativum pro genetivo posuisse;
+nam 'Corydonis' facit.</seg>
+</div>
+<div type="verse" n="17">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">posthabvi</hi> postposui.</seg>
+</div>
+<div type="verse" n="18">
+</div>
+<div type="verse" n="19">
+<seg rend="italic" type="Danielis">sensus</seg>
+</div>
+<div type="verse" n="20">
+</div>
+<div type="verse" n="21">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">nymphae noster amor libethrides</hi> a fonte Boeotiae &lt;Libethro
+vel a&gt; Libethro poeta, qui primus harmoniam tradidit et aram
+musis consecravit. alii &lt;Libethron&gt; locum, in quo Hesiodus natus est,
+alii templum Libethridum musarum dicunt, quod a Piero, Apollinis
+filio, consecratum est.</seg>
+<seg rend="italic" type="Danielis">nam et in
+aqua consistere dicuntur, quae de fontibus manat, sicut existimaverunt
+qui camenis fontem consecrarunt; nam eis non vino, sed aqua et lacte
+sacrificari solet:</seg>
+<seg rend="italic" type="Danielis">pessimi</seg>
+</div>
+<div type="verse" n="22">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">codro</hi> Codrus poeta eiusdem temporis fuit, ut Valgius in
+elegis suis refert.</seg>
+</div>
+<div type="verse" n="23">
+</div>
+<div type="verse" n="24">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">hic argvta</hi> iuxta quam frequenter canitur, ac per hoc loquax,
+garrula.</seg>
+<seg rend="italic" type="Danielis">et apostropham fecit, tamquam
+eam consecret. et &lt;est&gt; intellectus 'pendebis fistula': malo catalysin
+facere, quam deterior esse.</seg>
+</div>
+<div type="verse" n="25">
+</div>
+<div type="verse" n="26">
+</div>
+<div type="verse" n="27">
+<seg rend="italic" type="Danielis">quicquid autem ultra meritum laudatur, dicitur fascinari.
+<hi rend="small-caps">bacchare</hi> herba est ad depellendum fascinum.</seg>
+</div>
+<div type="verse" n="28">
+</div>
+<div type="verse" n="29">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">saetosi capvt</hi> &lt;<hi rend="small-caps">hoc</hi>&gt; <hi rend="small-caps">capri</hi> multi per duas 'c' scribi volunt
+propter metrum. sane deest 'consecrat', ut "Aeneas haec de Danais
+victoribus arma". et si 'apri', tamquam venator; si 'capri', tamquam
+pastor. <hi rend="small-caps">parvvs</hi> vel humilis, vel pauper, vel minor aetate.</seg>
+</div>
+<div type="verse" n="30">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ramosa cornva</hi> ut "cornibus arboreis"</seg>
+<seg rend="italic" type="Danielis">esse</seg>
+<seg rend="italic" type="Danielis">diu enim vivere dicuntur</seg>
+</div>
+<div type="verse" n="31">
+<seg rend="italic" type="Danielis">'proprium' sane veteres
+perpetuum, stabile, firmum dicebant: Terentius "ego deorum vitam ea
+propter sempiternam esse arbitror, quod eorum voluptates
+propriae sunt", id est firmae et perpetuae; et in Phormione
+"curavi propria ut potiretur"; et ipse "propriamque dicabo", et
+"da propriam, Thymbraee, domum": sic et hic 'proprium'. alii hunc
+Miconem alieni pecoris custodem volunt et sic dicere: interim hoc tibi
+caput Delia dedico; si proprium hoc meum pecus fuerit, plus dabo, id
+est simulacrum faciam. <hi rend="small-caps">levi</hi> polito.</seg>
+<seg rend="italic" type="Danielis">sane in
+libris sacrorum refertur, sacrum dici quod rite sacratur, ut aedes, areae,
+simulacra, dona. hic ergo cum dicit 'levi de marmore tota Puniceo
+stabis suras evincta cothurno', eodem modo et de Priapo dictum debemus
+accipere. hic etiam caput apri pro dono offertur. dona autem
+oblata numinibus tamdiu sacra sunt et dona possunt dici, quamdiu non
+fuerint profanata.</seg>
+</div>
+<div type="verse" n="32">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">evincta</hi> vel simpliciter, vel valde, ut "eduramque pirum".</seg>
+</div>
+<div type="verse" n="33">
+<seg rend="italic" type="Danielis">Varro de vita populi Romani "aut lepestam aut galeolam
+aut sinum dicebant: tria enim &lt;haec similia sunt&gt;, pro quibus
+nunc acratoforon dicitur": Atta in Megalensibus "nempe ad
+mensam ubi sermo de sinu solet suboriri".</seg>
+</div>
+<div type="verse" n="35">
+<seg rend="italic" type="Danielis">pro captu rei nostrae, pro
+viribus, quae sunt hoc tempore</seg>
+</div>
+<div type="verse" n="36">
+</div>
+<div type="verse" n="37">
+<seg rend="italic" type="Danielis">amica Corydonis nobilis. et hoc dicit:</seg>
+<seg rend="italic" type="Danielis">nympha. quam cum Polyphemus
+cyclops adamasset, primum concubitum eius precibus expetivit,
+mox vim adhibere conatus est: quem illa in mare se praecipitando effugit.
+cyclops autem cum eam de mari non posset evocare, Acin, quem
+nympha diligebat, ictu petrae interemit: cuius cruorem Galatea vertit
+in fluvium, qui eius retinet nomen</seg>
+<seg rend="italic" type="Danielis">alii pro
+'Nereis' accipiunt.</seg>
+</div>
+<div type="verse" n="38">
+</div>
+<div type="verse" n="39">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">repetent praesepia</hi> id est vespere.</seg>
+</div>
+<div type="verse" n="40">
+</div>
+<div type="verse" n="41">
+<seg rend="italic" type="Danielis">comesa</seg>
+<seg rend="italic" type="Danielis">unde vulgo
+Σαρδόνιος γέλως.</seg>
+</div>
+<div type="verse" n="42">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">horridior</hi> spinosior. <hi rend="small-caps">rvsco</hi> virgulta brevia acutis foliis et
+pungentibus, unde et in agris scopae fieri solent. <hi rend="small-caps">alga</hi> herba, quae
+in mari nascitur.</seg>
+</div>
+<div type="verse" n="43">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">lvx</hi> id est dies.</seg>
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">somno mollior</hi>
+Turpilius "lectus".</seg>
+</div>
+<div type="verse" n="46">
+<seg rend="italic" type="Danielis">aut</seg>
+<seg rend="italic" type="Danielis">aut quomodo
+dicimus rarum hominem pro egregio et bono</seg>
+</div>
+<div type="verse" n="47">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">defendite</hi> prohibete, excludite: Horatius "et igneam defendit
+aestatem capellis usque meis". duo ergo significat: nam aliter
+patriam dicimus defendere, aliter hostes, ut "hunc, oro, defende furorem".</seg>
+</div>
+<div type="verse" n="48">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">torrida</hi> calore sicca.</seg>
+</div>
+<div type="verse" n="49">
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">semper</hi> quantum ad hiemis spatium pertinet.</seg>
+</div>
+<div type="verse" n="51">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">hic tantvm</hi>&gt; nonnulli 'hinc' legunt, ut sit intellectus: quia
+in domo sua semper ignis sit, ideo subiectum 'hinc tantum', ut est
+"hinc omnis largo pubescit vinea fetu", hoc est ex hac causa. sane
+'hinc' alii propterea, alii loci significationem accipiunt. <hi rend="small-caps">cvramvs</hi>
+quidam 'timemus' accipiunt.</seg>
+</div>
+<div type="verse" n="52">
+<seg rend="italic" type="Danielis">et subauditur
+'ovium', vel similium.</seg>
+<seg rend="italic" type="Danielis">et totum proverbialiter dictum est.</seg>
+</div>
+<div type="verse" n="53">
+<seg rend="italic" type="Danielis">Verrius Flaccus iuniperum iuvenem pirum dicit. vere autem
+iuniperus est quasi aculeis praedita, bacas ad piperis speciem gerens.</seg>
+</div>
+<div type="verse" n="54">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">passim</hi> abundanter.</seg>
+</div>
+<div type="verse" n="55">
+</div>
+<div type="verse" n="56">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">montibvs</hi> e montibus.</seg>
+</div>
+<div type="verse" n="57">
+</div>
+<div type="verse" n="58">
+<seg rend="italic" type="Danielis">ut "invidet imperium"</seg>
+<seg rend="italic" type="Danielis">cum genere</seg>
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="61">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">popvlvs alcidae gratissima</hi> quia ea velatus ab inferis rediit:
+quam Homerus ἀχερωΐδα dicit, ab Acheronte ad superos translatam:
+qua corona usus, duplici colore foliorum geminos labores &lt;superorum&gt;
+inferorumque testatus est. de hac sane arbore fabula talis est: Leuce,
+Oceani filia, inter nymphas pulcherrima fuit. hanc Pluton adamavit
+et ad inferos rapuit. quae postquam apud eum completo vitae suae
+tempore mortua est, Pluton tam in amoris, quam in memoriae solacium
+in Elysiis piorum campis leucen nasci arborem iussit, ex qua,
+sicut dictum est, Hercules se, revertens ab inferis, coronavit.</seg>
+</div>
+<div type="verse" n="62">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">formosae myrtvs veneri</hi> myrtum ideo dicatam Veneri volunt,
+quia cum a mari exisset, latuit in myrto, ne nuda conspiceretur:
+vel quia fragilis est, ut amor inconstans: vel quia iucundi odoris, ut
+"sic positae quoniam suaves miscetis odores".</seg>
+</div>
+<div type="verse" n="64">
+<seg rend="italic" type="Danielis">In Hebri 'nec myrtus vincet Veneris nec laurea Phoebi'. et
+ita adserit: 'illas dum Phyllis amabit' non tam necessarium fuit dicere
+'corylos': perinde enim est, ac si dixisset 'Phyllis amat corylos,
+corylos dum Phyllis amabit'.</seg>
+</div>
+<div type="verse" n="65">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">fraxinvs in silvis pvlcherrima</hi> bene singulis loca sua consignavit.
+'fraxinus in silvis' et post 'populus in fluviis', ut est nunc,
+in Vari et in Hebri: prius 'populus in fluviis', dein 'fraxinus in
+silvis'.</seg>
+</div>
+<div type="verse" n="68">
+</div>
+<div type="verse" n="69">
+</div>
+<div type="verse" n="70">
+</div>
+</div>
+<div type="poem" n="8">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+<seg rend="italic" type="Danielis">ergo</seg>
+</div>
+<div type="verse" n="2">
+</div>
+<div type="verse" n="3">
+<seg rend="italic" type="Danielis">animalia, tamquam pantherae,
+in tutela Liberi. et</seg>
+</div>
+<div type="verse" n="4">
+<seg rend="italic" type="Danielis">militibus</seg>
+<seg rend="italic" type="Danielis">duplicem habet significationem et aliter dico 'quiesco</seg>
+<seg rend="italic" type="Danielis">Calvus in "Io
+sol quoque perpetuos meminit requiescere cursus"</seg>
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">damonis mvsam</hi> bene repetit, ne longum hyperbaton sensum
+confunderet, ut in georgicis repetit "huc pater o Lenaee".</seg>
+</div>
+<div type="verse" n="6">
+<seg rend="italic" type="Danielis">vel Histriae</seg>
+</div>
+<div type="verse" n="9">
+<seg rend="italic" type="Danielis">ut
+'en erit ille dies',</seg>
+<seg rend="italic" type="Danielis">ut 'en erit ut liceat'</seg>
+</div>
+<div type="verse" n="10">
+<seg rend="italic" type="Danielis">alii ideo hoc de Pollione dictum volunt, quod
+et ipse utriusque linguae tragoediarum scriptor fuit. cothurnus autem
+calciamentum tragicum, cuius usum quidam Sophoclem primum scaenae
+intulisse volunt.</seg>
+</div>
+<div type="verse" n="11">
+</div>
+<div type="verse" n="12">
+<seg rend="italic" type="Danielis">alii ideo
+lauri et hederae simul factam mentionem accipiunt, quoniam Apollo,
+carminum deus, idem Liber pater putatur. quidam, sicut dictum est,
+in Pollionem dictum tradunt, qui tunc Illyricum petebat, expugnaturus
+Salonas et inde ad orientem ad Antonium profecturus. lauro autem
+triumphantes coronantur, hedera poetae: Pollio et imperator est et poeta.
+cur tamen triumphantes lauro coronentur, haec ratio est, quoniam apud
+veteres a laude habuit nomen, nam laudum dicebant: vel &lt;quod&gt; hanc
+in manu habuit Iuppiter, quando titanas vicit: vel quod ea arbore
+praefracta milites, Fidenatibus victis, se coronassent sub Romulo: vel
+quod semper vireat. hedera autem ideo coronantur poetae, quoniam
+poetas saepe vino plurimo manifestum est uti, sicut et de Ennio ait
+Horatius et lyrici omnes in suis carminibus loquuntur, et haec herba
+nimium frigida est et vini calorem temperat: nam ideo et capiti inponitur.
+Varro ait, Liberum patrem propter calorem vini hedera coronatum.
+idem Varro etiam musas ait hedera coronari.</seg>
+</div>
+<div type="verse" n="14">
+<seg rend="italic" type="Danielis">περιφραστικῶς autem 'noctis umbra' pro tenebris posita.</seg>
+</div>
+<div type="verse" n="15">
+<seg rend="italic" type="Danielis">etiam</seg>
+</div>
+<div type="verse" n="16">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">incvmbens</hi> propter amorem non se sustinens.</seg>
+<seg rend="italic" type="Danielis">alii 'tereti
+olivae' baculum de oliva accipiunt.</seg>
+</div>
+<div type="verse" n="17">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">nascere</hi> quia dixerat 'frigida vix caelo noctis decesserat umbra',
+id est priusquam nox occidit.</seg>
+<seg rend="italic" type="Danielis">ordo est 'nascere, lucifer,</seg>
+<seg rend="italic" type="Danielis">praeveniensque</seg>
+</div>
+<div type="verse" n="18">
+<seg rend="italic" type="Danielis">alii 'indigno deceptus amore' antique dictum accipiunt, 'indigno'
+pro magno. et 'deceptus' pro 'captus'. 'amore' aut in amore
+aut ab amore.</seg>
+</div>
+<div type="verse" n="19">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">et divos qvamqvam nil testibvs illis profeci</hi> sic hoc dicit,
+tamquam iusiurandum inter eum et Nisam intercesserit.</seg>
+</div>
+<div type="verse" n="20">
+</div>
+<div type="verse" n="21">
+</div>
+<div type="verse" n="22">
+<seg rend="italic" type="Danielis">et</seg>
+<seg rend="italic" type="Danielis">'amores'
+vero cantica de amoribus.</seg>
+</div>
+<div type="verse" n="24">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">panaqve qvi primvs c. n. p. i.</hi> Pan Arcadiae deus est, ut
+"Pan deus Arcadiae venit", qui fistula canere primus invenit,
+quia calamos in usum cantilenae adducens inertes esse non passus
+est, id est otiosos, sine arte. et 'non passus inertes' deest 'esse'.</seg>
+</div>
+<div type="verse" n="26">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">qvid non speremvs a.</hi> 'speremus' pro 'timeamus', ut "hunc ego si potui
+tantum sperare dolorem": vel quid non speremus perversi accidere,
+cum hoc mihi acciderit.</seg>
+</div>
+<div type="verse" n="27">
+<seg rend="italic" type="Danielis">utrum idem iugum subibunt,
+ut dicuntur iungi iumenta, an coitu iungentur? grypes autem</seg>
+<seg rend="italic" type="Danielis">ideo 'iungentur iam grypes equis'</seg>
+<seg rend="italic" type="Danielis">notandum sane 'aevum'
+hic pro tempore, ut ipse alibi "tantum aevi longinqua valet mutare
+vetustas", Sallustius "in quis longissimo aevo plura de bonis
+falsa in deterius composuit". alias 'aevum' pro annis, ut "vos o
+quibus integer aevi sanguis".</seg>
+</div>
+<div type="verse" n="28">
+<seg rend="italic" type="Danielis">et hic, ne homoeoteleuton faceret dicendo 'timidae dammae'.</seg>
+</div>
+<div type="verse" n="29">
+<seg rend="italic" type="Danielis">corneae sane faces, quae quasi diutissime luceant: quas rapiunt
+tamquam vitae praesidia; namque his qui sunt potiti diutius feruntur
+vixisse.</seg>
+<seg rend="italic" type="Danielis">sponsas</seg>
+<seg rend="italic" type="Danielis">dicitur etiam ideo a novo marito nuces spargi debere, quod proiectae
+in terram tripudium solistimum faciant, quod auspicium ad rem ordiendam
+optimum est: vel ideo a pueris aspergendas nuces cum strepitu
+et convicio flagitari, ne quid nova nupta audiat adversum, quo
+dies nuptiarum dirimatur. quidam putant, quod haec esca ad incitandam
+Venerem faciat. sane fabula de nucis origine talis est: Dion rex
+Laconicae fuit, qui habuit uxorem Amphitheam, Pronactis filiam: quae
+cum Apollinem summo cultu et reverentia hospitio recepisset, ille remunerari
+volens circa se hospitium cultum, tribus filiabus eorum, quae
+Orphe, Lyco et Caroea appellatae sunt, divinationem concessit, adiecto,
+ne proditrices numinum esse vellent neve quaererent quod esset nefas
+scire. post Liber pater adveniens a Dione vel eius uxore receptus hospitio
+est, qui cum amata a se Caroea coitum miscuit. sed cum inde
+aegre Liber profectus esset, cogente amoris inpatientia denuo ad hospites
+redit, causam praetendens dedicandi fani, quod ei rex voverat. sed
+Lyco et Orphe, intellecto circa sororem Caroeam Liberi amore, eam
+custodire coeperunt, ne cum Libero ei esset copia coeundi. quas cum
+Liber pater moneret terreretque, ut saltem praecepta Apollinis custodientes
+pertinacem diligentiam compescerent, videretque ab his et sororem
+acrius custodiri et suum secretum studiosius inquiri, Orphen et
+Lyco immisso furore ad Taygetum montem raptas in saxa convertit,
+Caroeam vero, quam amaverat, in eodem monte in arborem sui nominis
+vertit, quae latine nux dicitur: quod postea Diana ita factum Laconas
+docuit. unde templum Caryatidi Dianae a Laconibus consecratum
+est.</seg>
+</div>
+<div type="verse" n="30">
+<seg rend="italic" type="Danielis">Oeta mons Thessaliae, in quo Hercules
+exustus est volens, postquam se exuere non potuit tunica, Nessi
+centauri cruore tincta, et post in caelum receptus est. de hoc monte</seg>
+<seg rend="italic" type="Danielis">in eodem monte Hesperus coli dicitur, qui
+Hymenaeum, speciosum puerum, amasse dicitur: qui Hymenaeus fertur
+in nuptiis Ariadnes et Liberi patris vocem perdidisse cantando: ex
+cuius nomine nuptiae dictae sunt.</seg>
+</div>
+<div type="verse" n="32">
+<seg rend="italic" type="Danielis">ergo sic
+pronuntiandum, ut habeat contemptum. <hi rend="small-caps">dvm despicis omnes</hi> quoniam
+ipse despicitur, putat omnes despici.</seg>
+</div>
+<div type="verse" n="34">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">hirsvtvmqve svpercilivm p. b.</hi> utrum natura, an quod tibi
+ita videtur?</seg>
+</div>
+<div type="verse" n="35">
+<seg rend="italic" type="Danielis">'mortalia' vero * .</seg>
+</div>
+<div type="verse" n="37">
+<seg rend="italic" type="Danielis">sane unde
+melus graece traxerit nomen, fabula talis est: Melus quidam, in Delo
+insula ortus, relicta patria fugit ad insulam Cyprum, in qua eo tempore
+Cinyras regnabat, habens filium Adonem. hic Melum sociatum
+Adoni filio iussit esse, cumque eum videret esse indolis bonae, propinquam
+suam, dicatam et ipsam Veneri, quae Pelia dicebatur, Melo coniunxit.
+ex quibus nascitur Melus, quem Venus propterea quod Adonis
+amore teneretur, tamquam amati filium inter aras praecepit nutriri.
+sed postquam Adonis apri ictu extinctus est, senex Melus cum dolorem
+mortis Adonis ferre non posset, laqueo se ad arborem suspendens vitam
+finit: ex cuius nomine melus appellata est. Pelia autem coniux eius
+in ea arbore se adpendens necata est. Venus misericordia eorum mortis
+ducta, Adoni luctum continuum praestitit, Melum in pomum sui nominis
+vertit, Peliam coniugem eius in columbam mutavit, Melum autem
+puerum, qui de Cinyrae genere solus supererat, cum adultum vidisset,
+collecta manu redire ad Delum praecepit. qui cum ad insulam pervenisset
+et rerum ibi esset potitus, Melon condidit civitatem: et cum
+primus oves tonderi et vestem de lanis fieri instituisset, meruit ut eius
+nomine oves μῆλα vocarentur; graece enim oves μῆλα appellantur.</seg>
+</div>
+<div type="verse" n="38">
+<seg rend="italic" type="Danielis">vos</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">cvm matre legentem</hi> deest pronomen, et ideo vel
+huius vel puellae matrem intellegere possumus.</seg>
+</div>
+<div type="verse" n="39">
+</div>
+<div type="verse" n="40">
+</div>
+<div type="verse" n="41">
+<seg rend="italic" type="Danielis">ut</seg>
+<seg rend="italic" type="Danielis">vel primum
+'ut' postquam, duo sequentia pro admirandi significatione posita sunt</seg>
+</div>
+<div type="verse" n="43">
+</div>
+<div type="verse" n="44">
+<seg rend="italic" type="Danielis">Tmaros in Epiro, Rhodope in Thracia</seg>
+</div>
+<div type="verse" n="45">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">edvnt</hi> pariunt,
+ut in septimo "sub luminis edidit oras".</seg>
+</div>
+<div type="verse" n="47">
+<seg rend="italic" type="Danielis">alii hoc loco cum Amore matrem Venerem culpari volunt:
+eam enim crudelem, quia permittat; illum autem inprobum, quia supra
+modum noceat, ita ut &lt;ad&gt; parricidia quoque sui violentia plures inpulerit.</seg>
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ille, improbvs ille pver
+crvdelis: tv qvoqve, mater</hi>&gt; multi sic distinguunt, quia et intentio
+loquentis ab initio sic fuit, ut a saevitia Amoris inciperet, in secundo
+loco accusaret et matrem, ita tamen, ut criminis eius invidiam crudelitati
+Amoris adscriberet, et ideo geminandum &lt;'ille'&gt;: 'ille, inprobus
+ille puer crudelis'. et distinguendum ita est 'crudelis tu quoque mater.
+crudelis mater magis, an puer inprobus?' et distingue 'ille, inprobus
+ille puer crudelis' et subiunge 'tu quoque mater'.</seg>
+</div>
+<div type="verse" n="52">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">avrea</hi> vel speciosa, vel matura et aurei coloris.</seg>
+</div>
+<div type="verse" n="54">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">myricae</hi> genus
+arbusculae humile, quam tamaricem vulgo dicunt.</seg>
+</div>
+<div type="verse" n="55">
+<seg rend="italic" type="Danielis">quas vulgo ulucos vocant</seg>
+<seg rend="italic" type="Danielis">hic
+Arion, Lesbius, citharoedus optimus fuit: qui cum a Periandro, rege
+Corinthiorum, petisset, ut sibi liceret peragrare alias civitates, permissu
+eius per multa oppida collectis beneficio cantilenae opibus, Corinthum
+petere coepit. in cuius necem cum nautae et servuli coniurassent, Apollo
+eum in somnis monuit, citharoedi habitu accepto canens cithara ut vitaret
+insidias, auxilium ei non defuturum promittens. in quem cum
+coniuratorum manus involasset, petit ab eis Arion, ut sibi cithara canere
+liceret: quod cum ab illis permissum esset, ad eius cantilenam
+convenere delphines. is ubi somnio fidem factam vidit, in mare se
+praecipitavit, et exceptus ab uno delphine, ad Taenarum, Laconicae
+promuntorium, pervectus est ibique ad memoriam casuum suorum in
+templo Apollinis delphini signum insidentem se cum cithara posuit.
+exinde Corinthum petiit et universa narravit. in tempore autem hoc
+etiam navis, in qua navigaverat, cum insidiatoribus supervenit. quos
+cum rex de Arione requisisset et illi eum mortuum mentirentur, produci
+Arionem iussit, &lt;ipsos autem cruci&gt; adfigi. sed Apollo tam delphinum
+quam citharam ob amorem Arionis inter sidera collocavit.</seg>
+</div>
+<div type="verse" n="56">
+</div>
+<div type="verse" n="58">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">omnia vel medivm fiat mare</hi> 'medium fiat', id est ut nihil
+sit nisi mare, hoc est diluvium fiat.</seg>
+</div>
+<div type="verse" n="59">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">praeceps aerii specvla d. m. i. v. d.</hi> quidam hoc ideo dictum
+putant, quod apud Leucaten soliti erant se praecipitare qui aut suos
+parentes invenire cupiebant, aut amari ab his desiderabant, quos
+amabant.</seg>
+</div>
+<div type="verse" n="60">
+<seg rend="italic" type="Danielis">vel extremum hoc munus meum habeto, quod morior</seg>
+</div>
+<div type="verse" n="62">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">haec damon</hi> deest 'dixit'.</seg>
+</div>
+<div type="verse" n="63">
+</div>
+<div type="verse" n="64">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">molli vitta</hi> lanea scilicet.</seg>
+</div>
+<div type="verse" n="65">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">verbenasqve</hi> verbenae dicuntur virgulta, quae semper virent,
+iucundi odoris: alii verbenas virgulta religioni apta: alii proprie olivarum
+ramos; nam ideo et 'pingues' ait, quamvis hoc et de palma et
+de lauro dici possit: alii rorem marinum dicunt. omnia tamen haec
+a viriditate verbenae appellantur.</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">pingves</hi> florentes, virentes.</seg>
+</div>
+<div type="verse" n="66">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">conivgis</hi> apud Theocritum non coniugis, sed alieni adulescentuli
+persona subest, sicut supra dictum est.</seg>
+<seg rend="italic" type="Danielis">qui
+modo sani sunt,</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">magicis sacris</hi> quibus alienantur animi quadam violentia
+ab his, qui eorum usum habent.</seg>
+<seg rend="italic" type="Danielis">aut certe 'in
+me convertere'</seg>
+</div>
+<div type="verse" n="67">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">sensvs</hi> hoc est animum, ex quo sensus nostri sunt cerebri.
+<hi rend="small-caps">nihil hinc</hi> figuratum est 'hinc'. <hi rend="small-caps">desvnt</hi> qua absunt. <hi rend="small-caps">nihil hic
+nisi carmina desvnt</hi> tamquam omnibus quae imperaverat paratis, carmina
+sola deesse dicit; nam hoc sequitur 'ducite ab urbe domum mea
+carmina'.</seg>
+</div>
+<div type="verse" n="68">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">dvcite</hi> pro 'adducite'. <hi rend="small-caps">daphnin</hi> hunc Daphnin pulcherrimum
+inter pastores et ephebum et ab omnibus amatum feminis, sicut
+supra dictum est, multi scriptores adserunt: cuius mentionem
+Vergilius, peritus antiquitatis, non incassum locis plurimis facit. hunc
+igitur cum nympha Nomia amaret et ille eam sperneret et Chimaeram
+potius sequeretur, ab irata nympha amatrice luminibus orbatus est
+deinde &lt;in&gt; lapidem versus: nam apud Cephaloeditanum oppidum saxum
+dicitur esse, quod formam hominis ostendat. alii hunc Daphnin
+Pimpleam amasse dicunt. quam cum a praedonibus raptam Daphnis
+per totum orbem quaesisset, invenit in Phrygia apud Lityersem regem
+servientem, qui hac lege in advenas saeviebat, ut cum multas segetes
+haberet, peregrinos advenientes secum metere faceret victosque iuberet
+occidi. sed Hercules, miseratus Daphnidis, venit ad regiam et audita
+condicione certaminis, falcem ad metendum accepit eaque regi *ferali
+sopito metendi carmine* caput amputavit. ita Daphnin a periculo liberavit
+et ei Pimpleam, quam alii Thaliam dicunt, reddidit: quibus
+dotis nomine aulam quoque regiam condonavit.</seg>
+</div>
+<div type="verse" n="69">
+<seg rend="italic" type="Danielis">et bene potentiam carminum narrat,
+quae per ea vel fieri possint, vel facta sint.</seg>
+</div>
+<div type="verse" n="71">
+<seg rend="italic" type="Danielis">sane veteres 'cantare'
+de magico carmine dicebant, unde et 'excantare' est magicis carminibus
+obligare: Plautus in Bacchidibus "nam tu quidem cuivis
+excantare cor facile potes".</seg>
+</div>
+<div type="verse" n="73">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">terna</hi> tria.</seg>
+</div>
+<div type="verse" n="75">
+<seg rend="italic" type="Danielis">iuxta Pythagoreos, qui ternarium numerum
+perfectum summo deo adsignant, a quo initium et medium et finis
+est</seg>
+<seg rend="italic" type="Danielis">re vera</seg>
+<seg rend="italic" type="Danielis">quamvis omnium prope
+deorum potestas triplici signo ostendatur, ut Iovis trifidum fulmen,
+Neptuni tridens, Plutonis canis triceps. Apollo idem Sol, idem Liber.
+et quod omnia ternario numero continentur, ut parcae, furiae; Hercules
+etiam trinoctio conceptus; musae ter ternae: aut 'impare' quemadmodumcumque:
+nam septem chordae, septem planetae, septem dies nominibus
+deorum, septem stellae in septemtrione, et multa his similia. et
+impar numerus inmortalis, quia dividi integer non potest; par numerus
+mortalis, quia dividi potest: licet Varro dicat Pythagoreos putare,
+imparem numerum habere finem, parem esse infinitum; ideo medendi
+causa multarumque rerum impares numeros servari</seg>
+</div>
+<div type="verse" n="78">
+</div>
+<div type="verse" n="80">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">limvs vt hic dvrescit</hi> se de limo facit, Daphnidem de cera.</seg>
+</div>
+<div type="verse" n="81">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">sic nostro daphnis amore</hi> durescat et liquescat.</seg>
+</div>
+<div type="verse" n="82">
+<seg rend="italic" type="Danielis">hoc nomen de sacris tractum
+est: far enim pium, id est mola casta, salsa — utrumque enim idem
+significat — ita fit: virgines Vestales tres maximae ex nonis Maiis ad
+pridie idus Maias alternis diebus spicas adoreas in corbibus messuariis
+ponunt easque spicas ipsae virgines torrent, pinsunt, molunt atque ita
+molitum condunt. ex eo farre virgines ter in anno molam faciunt,
+Lupercalibus, Vestalibus, idibus septembribus, adiecto sale cocto et sale
+duro. igitur quod in sacris mola casta dicitur, ideo Vergilius in quinto
+Aeneidis "farre pio" enuntiavit: quid enim est pium nisi castum?
+quoniam 'piare' est propitiare, quod accidere non potest nisi caste inservitum
+erit rebus sacris. hic autem dicendo 'asperge molam' rem
+ipsam proprio nomine memoravit: unde in secundo Aeneidis et
+"salsae fruges" et in quarto "ipsa mola"</seg>
+</div>
+<div type="verse" n="83">
+</div>
+<div type="verse" n="86">
+</div>
+<div type="verse" n="87">
+</div>
+<div type="verse" n="88">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">serae meminit decedere nocti</hi> id est tenebrae illam occupant.</seg>
+</div>
+<div type="verse" n="89">
+<seg rend="italic" type="Danielis">et 'mederi' pro 'medendi'.</seg>
+</div>
+<div type="verse" n="91">
+</div>
+<div type="verse" n="92">
+<seg rend="italic" type="Danielis">Vestae. veneficium ita administratur, ut in limine ponantur eius exuviae,
+cui veneficium fit</seg>
+</div>
+<div type="verse" n="95">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ponto</hi> in Ponto. et modo provinciam dicit hoc nomine, non
+mare. <hi rend="small-caps">mihi lecta</hi> ordo est 'mihi dedit', non 'mihi lecta'.</seg>
+</div>
+<div type="verse" n="97">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">his ego saepe lvpvm fieri</hi> est enim opinio, quosdam homines
+artibus quibusdam in lupos mutari. <hi rend="small-caps">silvis</hi> pro 'in silvis'.</seg>
+</div>
+<div type="verse" n="99">
+<seg rend="italic" type="Danielis">quod et Varro et multi scriptores fieri deprehensum
+adfirmant</seg>
+</div>
+<div type="verse" n="102">
+</div>
+<div type="verse" n="103">
+<seg rend="italic" type="Danielis">hoc est</seg>
+<seg rend="italic" type="Danielis">quidam sic intellegunt: quamvis ille
+haec omnia contemnat.</seg>
+</div>
+<div type="verse" n="105">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">aspice</hi> hoc ab alia dici debet.</seg>
+<seg rend="italic" type="Danielis">'altaria' nunc ipsa quae ponuntur.</seg>
+</div>
+<div type="verse" n="106">
+</div>
+<div type="verse" n="107">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">nescio qvid certe est</hi> hoc non iungendum superiori; est
+enim aliud prodigium.</seg>
+</div>
+<div type="verse" n="108">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">credimvs</hi> non dixit quid credat.</seg>
+</div>
+</div>
+<div type="poem" n="9">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+<seg rend="italic" type="Danielis">dramatico charactere scripta est: inducuntur enim duo pastores; scaena
+in agro Mantuano. et haec ecloga</seg>
+<seg rend="italic" type="Danielis">suos</seg>
+<seg rend="italic" type="Danielis">quidam hunc ordinem tradunt 'quo te Moeri
+pedes? an in urbem? quo ista via ducit'. sane alii ordinem huius
+eclogae ita exponunt: cum inmunitatem agrorum Vergilius impetrasset,
+lis est exorta de finibus inter eum et eos, qui in proximo agros acceperant:
+ex quibus Clodius quidam dixit, se omnem litem amputaturum
+interfecto Vergilio. quem poeta stricto gladio se insequentem fugit in
+tabernam carbonariam. et beneficio institoris ex alia parte emissus,
+servatus est. inducitur ergo Moeris familiaris Vergilii, referens Lycidae
+periculum suum et Menalcae, quem nunc pro Vergilio debemus
+accipere.</seg>
+</div>
+<div type="verse" n="2">
+<seg rend="italic" type="Danielis">sensus autem talis est: usque eo nos
+longa vita perduxit, ut audiremus dicentem 'migrate, haec mea sunt'.
+interpositum sane est 'quod numquam veriti sumus'. <hi rend="small-caps">advena nostri</hi>
+qui advenerit in nostros agros. et aut Clodium aut Arrium significat.</seg>
+</div>
+<div type="verse" n="3">
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis">et 'tristes'
+ideo, quia dixit 'nunc victi'.</seg>
+<seg rend="italic" type="Danielis">id est instabilis
+est. et</seg>
+</div>
+<div type="verse" n="6">
+<seg rend="italic" type="Danielis">id est</seg>
+</div>
+<div type="verse" n="7">
+<seg rend="italic" type="Danielis">alii 'sursum
+ducere' intellegunt. alii medium clivum accipiunt, ex quo superior
+pars subducitur in collem surgentem, inferior &lt;in&gt; subiectam planitiem
+molliter deprimitur. usque ad eum autem locum perticam limitarem
+Octavius Musa porrexerat, limitator ab Augusto datus, id est per quindecim
+milia passuum agri Mantuani, cum Cremonensis non sufficeret,
+offensus a Mantuanis, quod pecora eius in agro publico aliquando
+clausissent. alii 'subducere' pro 'desinere' accipiunt: nam permansit
+dicendo 'demittere iugum', quasi hoc colles faciant, quod illis accidit
+per naturam. alii agrum suum volunt descripsisse Vergilium, ut ostenderet
+ex utraque parte esse clivosum, ut cum ab una parte ad cacumen
+ascenderis, ab alia usque ad aquam descendas. et quidam tales agros
+lapidosos dicunt, sicut ipse de suo ait "et tibi magna satis
+quamvis lapis omnia nudus".</seg>
+</div>
+<div type="verse" n="9">
+</div>
+<div type="verse" n="10">
+<seg rend="italic" type="Danielis">quod alii dicunt
+Vergilium ostendere voluisse, quod Mantuanis per iniquitatem Alfeni
+Vari, qui agros divisit, praeter palustria nihil relictum sit, sicut ex
+oratione Cornelii in Alfenum ostenditur "cum iussus tria milia passus
+a muro in diversa relinquere, vix octingentos passus
+aquae, quae circumdata est, admetireris, reliquisti"</seg>
+<seg rend="italic" type="Danielis">cuius causa agri
+Mantuanis redditi sunt</seg>
+</div>
+<div type="verse" n="11">
+<seg rend="italic" type="Danielis">sensus tamen est: sed
+videlicet hoc tempore, id est in hoc bello, poemata nostra non valde admittuntur.
+'carmina' autem nonnulli quibus sibi Pollionem intercessorem
+apud Augustum conciliaverat, accipiunt: quo fugato, rursus de
+praediis suis fuerat Vergilius expulsus.</seg>
+</div>
+<div type="verse" n="13">
+<seg rend="italic" type="Danielis">nam</seg>
+<seg rend="italic" type="Danielis">Herodotus hanc columbam
+de Aegypto venisse ait.</seg>
+</div>
+<div type="verse" n="14">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">incidere</hi>
+pro 'decidere'.</seg>
+</div>
+<div type="verse" n="15">
+<seg rend="italic" type="Danielis">ante sinistra'
+indivise legendum. et dicendo 'monuisset' oscinem fuisse demonstrat.
+sane</seg>
+</div>
+<div type="verse" n="16">
+<seg rend="italic" type="Danielis">id est</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ipse menalcas</hi> pro
+Vergilio, qui dum agros suos defendit, paene occisus est.</seg>
+</div>
+<div type="verse" n="17">
+</div>
+<div type="verse" n="18">
+<seg rend="italic" type="Danielis">vel 'tua solacia'
+tua carmina, quibus consolamur.</seg>
+</div>
+<div type="verse" n="19">
+</div>
+<div type="verse" n="20">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">spargeret</hi> id est aspersam floribus caneret.</seg>
+</div>
+<div type="verse" n="21">
+<seg rend="italic" type="Danielis">subaudiendum 'nesciente
+te'. 'sublegi' intercepi. et bene</seg>
+<seg rend="italic" type="Danielis">Plautus in Milite
+"quae etiam nostrum hunc sermonem sublegerat"</seg>
+</div>
+<div type="verse" n="22">
+</div>
+<div type="verse" n="23">
+<seg rend="italic" type="Danielis">sed hoc aut de ipso Vergilii
+carmine Lycidas retulit; aut, ut alii putant, conversus ad gregalem
+suum Tityrum dicit. et bene dum promittunt se cantaturos, nihilominus
+dicunt. sane quaeritur, utrum in his tribus versibus perfectum
+carmen sit, an initium alterius carminis inperfecti.</seg>
+<seg rend="italic" type="Danielis">Afranius "inter loquendum", Ennius "inter
+ponendum"</seg>
+</div>
+<div type="verse" n="25">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">occvrsare capro</hi> ordo 'occursare capro caveto'.</seg>
+</div>
+<div type="verse" n="26">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">immo</hi> pro 'vel'.</seg>
+</div>
+<div type="verse" n="27">
+<seg rend="italic" type="Danielis">sane blanditur
+Alfeno Varo, qui, Pollione fugato, legatus transpadanis praepositus est
+ab Augusto.</seg>
+<seg rend="italic" type="Danielis">et bene affectiose de patria, quasi dubium &lt;sit&gt;, an
+superfutura sit.</seg>
+</div>
+<div type="verse" n="28">
+<seg rend="italic" type="Danielis">nam</seg>
+<seg rend="italic" type="Danielis">autem</seg>
+<seg rend="italic" type="Danielis">nam ortis bellis
+civilibus inter Antonium et Augustum, Augustus victor Cremonensium
+agros, quia pro Antonio senserant, dedit militibus suis: qui cum non
+suffecissent, his addidit agros Mantuanos, sublatos non propter civium
+culpam, sed propter vicinitatem</seg>
+</div>
+<div type="verse" n="30">
+<seg rend="italic" type="Danielis">a Cyrno, Herculis filio</seg>
+</div>
+<div type="verse" n="31">
+</div>
+<div type="verse" n="32">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">siqvid habes</hi> non dixit tuum, sed Menalcae.</seg>
+</div>
+<div type="verse" n="33">
+</div>
+<div type="verse" n="35">
+<seg rend="italic" type="Danielis">qui
+nulla carmina scripsit. nonnulli sane Alfenum Varum volunt, qui
+licet iuris consultus et successor Servii Sulpicii esset, etiam carmina
+aliqua composuisse dicitur; sed hoc teste Horatio falsum est, qui Varium
+poetam laudat</seg>
+<seg rend="italic" type="Danielis">quibus tamen poetis negat suum ingenium comparandum.</seg>
+</div>
+<div type="verse" n="36">
+<seg rend="italic" type="Danielis">et bene illos poetas optimos cycnos
+dicit, se anserem rudem et levis ingenii, nec debere aut posse &lt;se&gt; illos
+imitari. <hi rend="small-caps">inter strepere</hi> sane et composite potest et separatim
+proferri.</seg>
+</div>
+<div type="verse" n="37">
+</div>
+<div type="verse" n="38">
+<seg rend="italic" type="Danielis">'&lt;si&gt; valeam' autem si possim, ut in Aeneide "quae
+plurima fando enumerare vales".</seg>
+</div>
+<div type="verse" n="39">
+<seg rend="italic" type="Danielis">in</seg>
+<seg rend="italic" type="Danielis">ab illius nominis derivatione</seg>
+<seg rend="italic" type="Danielis">ludus' voluptas. et</seg>
+</div>
+<div type="verse" n="42">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">lentae</hi> flexibiles. <hi rend="small-caps">vmbracvla</hi> Cicero "umbraculisque silvestribus".</seg>
+</div>
+<div type="verse" n="43">
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+<seg rend="italic" type="Danielis">vel</seg>
+<seg rend="italic" type="Danielis">vel certe numeros
+versuum</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">si verba tenerem</hi> hoc est carmen non teneo.</seg>
+</div>
+<div type="verse" n="46">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">daphni, qvid antiqvos</hi> pro 'antiquorum'.</seg>
+<seg rend="italic" type="Danielis">sui</seg>
+<seg rend="italic" type="Danielis">Baebius Macer circa horam octavam stellam amplissimam, quasi
+lemniscis, radiis coronatam, ortam dicit. quam quidam ad inlustrandam
+gloriam Caesaris iuvenis pertinere existimabant, ipse animam patris
+sui esse voluit eique in Capitolio statuam, super caput auream
+stellam habentem, posuit: inscriptum in basi fuit 'Caesari emitheo'. sed
+Vulcanius aruspex in contione dixit cometen esse, qui significaret exitum
+noni saeculi et ingressum decimi; sed quod invitis diis secreta
+rerum pronuntiaret, statim se esse moriturum: et nondum finita oratione,
+in ipsa contione concidit. hoc etiam Augustus in libro secundo
+de memoria vitae suae complexus est. et haec Moeris non ut sua, sed
+Vergilii refert, in honorem Augusti composita.</seg>
+</div>
+<div type="verse" n="48">
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">insere daphni piros</hi> hoc in gratiam Augusti, per cuius beneficium
+securus de agris suis est.</seg>
+</div>
+<div type="verse" n="51">
+</div>
+<div type="verse" n="52">
+<seg rend="italic" type="Danielis">id est</seg>
+</div>
+<div type="verse" n="53">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">nvnc oblita</hi> vel omissa, vel figurate, quorum ego oblitus sum.
+et ostendit Moerin nullum suum, sed omnia Menalcae carmina retulisse.
+<hi rend="small-caps">vox qvoqve moerin iam fvgit ipsa</hi> his versibus ostendit, vigorem
+cantandi, quem prius habuerat, perdidisse &lt;se&gt;. et per allegoriam
+obsessum malis animum demonstrat.</seg>
+</div>
+<div type="verse" n="54">
+</div>
+<div type="verse" n="55">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">satis referet tibi saepe menalcas</hi> ordo est 'satis saepe'.</seg>
+</div>
+<div type="verse" n="56">
+</div>
+<div type="verse" n="57">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">aeqvor</hi> spatium campi.</seg>
+</div>
+<div type="verse" n="58">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">aspice ventosi cecidervnt mvrmvris avrae</hi> frondes scilicet
+arborum. et ostendit, vel ipsas auras quievisse, quibus nihil omnino
+moveatur.</seg>
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="61">
+</div>
+<div type="verse" n="62">
+<seg rend="italic" type="Danielis">et deest 'hodie'.</seg>
+</div>
+<div type="verse" n="63">
+</div>
+<div type="verse" n="64">
+</div>
+<div type="verse" n="65">
+</div>
+<div type="verse" n="66">
+<seg rend="italic" type="Danielis">et
+'plura' deest 'dicere', ut esset 'desine plura dicere'.</seg>
+</div>
+<div type="verse" n="67">
+</div>
+</div>
+<div type="poem" n="10">
+<div type="verse" n="t">
+</div>
+<div type="verse" n="1">
+<seg rend="italic" type="Danielis">et</seg>
+<seg rend="italic" type="Danielis">autem</seg>
+</div>
+<div type="verse" n="2">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">ipsa</hi> quae amata sprevit
+amorem. <hi rend="small-caps">lycoris</hi> pro 'Cytheris'; licet enim poetis alia nomina pro
+aliis ponere.</seg>
+</div>
+<div type="verse" n="4">
+<seg rend="italic" type="Danielis">de</seg>
+<seg rend="italic" type="Danielis">sane dicitur quodam tempore patera aurea in Arethusa
+inventa, quam olympionices in Alpheum miserat. et cum Olympiae
+hostiae caeduntur, cruor earum, in Alpheum infusus, in Arethusam
+exit. <hi rend="small-caps">sicanos</hi> Sicilia ante Sicania dicta a Sicano, Terrae filio.</seg>
+</div>
+<div type="verse" n="5">
+<seg rend="italic" type="Danielis">vel 'Doris' Oceani filia, coniunx Nerei</seg>
+</div>
+<div type="verse" n="6">
+</div>
+<div type="verse" n="7">
+<seg rend="italic" type="Danielis">et dicens 'simae virgulta capellae' hic poetam quasi pastorem
+posuit.</seg>
+</div>
+<div type="verse" n="8">
+<seg rend="italic" type="Danielis">et mira brevitate sensus versus huius explicatus
+est.</seg>
+</div>
+<div type="verse" n="9">
+<seg rend="italic" type="Danielis">hinc carmen videtur incipere. et</seg>
+<seg rend="italic" type="Danielis">vel
+ut alii, quidam pastor Daphnin amore mortuum deflet</seg>
+<seg rend="italic" type="Danielis">vel cur eum amantem musae deseruerint, cum
+propter ingenium earum esset antistes</seg>
+</div>
+<div type="verse" n="10">
+<seg rend="italic" type="Danielis">alii 'indigno' non quia Cytheris
+pulchra non fuerit, sed quia Gallus ab ea spretus sit.</seg>
+</div>
+<div type="verse" n="11">
+<seg rend="italic" type="Danielis">Parnasus mons Boeotiae,
+Pindus Thessaliae: ambo</seg>
+</div>
+<div type="verse" n="12">
+<seg rend="italic" type="Danielis">Callimachus Aganippen
+fontem esse dicit Permessi fluminis.</seg>
+</div>
+<div type="verse" n="14">
+<seg rend="italic" type="Danielis">et per montes homines significavit.</seg>
+</div>
+<div type="verse" n="16">
+<seg rend="italic" type="Danielis">alii 'paenitet' pudet accipiunt.</seg>
+</div>
+<div type="verse" n="17">
+</div>
+<div type="verse" n="18">
+<seg rend="italic" type="Danielis">etiam</seg>
+<seg rend="italic" type="Danielis">et
+est de hoc fabula talis: in Cypro insula regnavit Cinyras, habens filiam
+Myrrham nomine. quae Solis ira in amores incidit patris, cum quo
+etiam ministerio nutricis concubuit: namque nutrix Myrrhae dixit Cinyrae,
+esse quandam puellam, quae eius amore flagraret et concubitum
+nocte in tenebris propter verecundiam expeteret virginalem. hoc Cinyras,
+incitatus libidine, pollicitus est. cupiens deinde videre vultus puellae,
+lumen iussit inferri visamque filiam persequi cum gladio coepit, ut
+interficeret. quae gravida de patre confugit in silvas ibique mutata est
+in arborem nominis sui. sed infantem conceptum etiam in cortice retinuit
+et postmodum dente apri excisum emisit in lucem. qui a nymphis
+eductus, Adonis cognominatus est. quem quia Venus adamavit,
+Mars in aprum transfiguratus occidit. quem multi miseratione Veneris
+in rosam conversum dicunt. est etiam alter ordo huius fabulae: ex
+Aegypto †Epiuotasterius et Yon fratres ad insulam Cyprum profecti
+sunt atque ibi sortiti uxores. ex quorum genere Celes procreatus est,
+qui habuit Erinomam filiam. haec cum esset nimiae castitatis et hoc
+a Minerva et Diana diligeretur, Veneri esse coepit invisa. quae cum
+puellae castitati insidiaretur, in amorem eius inpulit Iovem. quem
+dolum postquam Iuno animadvertit, ut fraudem fraude superaret, petit
+a Venere, ut in amorem puellae Adonem inflammaret. quem posteaquam
+nulla fraude sollicitare in eius amorem potuit, obiectis quibusdam
+nebulis, ipsum Adonem in penetrale virginis perduxit. ita pudicitia
+puella per vim et fraudem caruit. sed hanc Diana miserata circa Cisseum
+fluvium in pavonem mutavit. Adonis vero ubi cognovit se amatam
+Iovis vitiasse, metuens profugit in montis Casii silvas ibique inmixtus
+agrestibus versabatur. quem dolo Mercurii monte deductum cum
+aper, quem fabulae Martem loquuntur, vehementer urgeret et ab Adone
+vinceretur, repente fulmen Iuppiter iecit et Adonem morti dedit: sed
+cum Venus illusum sibi et mortem amati Adonis saepe quereretur,
+Mercurius miseratus imaginem Adonis, ut vivere crederetur, ad suos
+reduci fecit; Iuno autem a Iove petiit, ut Adonis in lucis patriis
+aevum degeret. tum Diana puellae Erinomae formam pristinam reddidit,
+quae tamen ex Adone Taleum filium procreavit et cum viro
+permansit.</seg>
+</div>
+<div type="verse" n="19">
+<seg rend="italic" type="Danielis">ovium custos. et</seg>
+<seg rend="italic" type="Danielis">'tardi'</seg>
+<seg rend="italic" type="Danielis">alii pro 'fatigati' accipiunt.
+'subulci' autem pastores porcorum.</seg>
+</div>
+<div type="verse" n="20">
+<seg rend="italic" type="Danielis">'uvidus'</seg>
+<seg rend="italic" type="Danielis">vero</seg>
+<seg rend="italic" type="Danielis">'hiberna' autem 'de glande' de collectione glandis, quia per
+hiemem colligitur.</seg>
+</div>
+<div type="verse" n="21">
+<seg rend="italic" type="Danielis">id est</seg>
+<seg rend="italic" type="Danielis">alii sic intellegunt
+'unde', quod non dignus illo atque superbe fastidiebatur.</seg>
+</div>
+<div type="verse" n="22">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">galle qvid insanis</hi> vult spem amoris desperatione sanare.</seg>
+</div>
+<div type="verse" n="23">
+<seg rend="italic" type="Danielis">'horrida' semper; nunc
+propter bella civilia. et subtiliter</seg>
+</div>
+<div type="verse" n="25">
+</div>
+<div type="verse" n="26">
+<seg rend="italic" type="Danielis">utrum, quia praesentia numina agrestium,
+et ipse et fauni: an quia</seg>
+</div>
+<div type="verse" n="27">
+<seg rend="italic" type="Danielis">ebulum genus est herbae sambuco simile.
+'minio' autem ideo, quia</seg>
+</div>
+<div type="verse" n="28">
+<seg rend="italic" type="Danielis">in Syringa</seg>
+</div>
+<div type="verse" n="31">
+<seg rend="italic" type="Danielis">videtur enim neque obiurgationes neque consolationes
+ recipere obstinate moriturus; nihil enim ad dicta ab eis respondit.</seg>
+</div>
+<div type="verse" n="33">
+</div>
+<div type="verse" n="34">
+</div>
+<div type="verse" n="36">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">avt matvrae vinitor vvae</hi></seg>
+<seg rend="italic" type="Danielis">'vinitor' autem vel custos vel cultor vinearum.</seg>
+</div>
+<div type="verse" n="38">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">qvid tvm si fvscvs amyntas</hi> quasi ei obiectum sit, quod Amyntas
+fuscus esset, sic respondit: quid deinde, si fuscus est?</seg>
+</div>
+<div type="verse" n="40">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">mecvm inter salices</hi> videlicet alteruter, vel quisquis ille vel
+illa fuerit.</seg>
+</div>
+<div type="verse" n="42">
+<seg rend="italic" type="Danielis">et cum optasset aliud, iterum
+ad amatam rediit.</seg>
+</div>
+<div type="verse" n="43">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">hic ipso aevo</hi> id est flore aetatis.</seg>
+</div>
+<div type="verse" n="44">
+</div>
+<div type="verse" n="45">
+</div>
+<div type="verse" n="46">
+<seg rend="italic" type="Danielis">'tantum', quidam, id est
+tam longe obes, ut nolim credere, te tam longe abesse: vel certe:</seg>
+<seg rend="italic" type="Danielis">Terentius in Heautontimorumeno "miserum?
+quem minus credere est"</seg>
+</div>
+<div type="verse" n="47">
+</div>
+<div type="verse" n="48">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">me sine s. v.</hi>&gt; nam meretrix sola esse non potest. <hi rend="small-caps">a te ne frigora laedant</hi>
+inconstantem animum expressit, miserantem et optantem.</seg>
+</div>
+<div type="verse" n="49">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">teneras plantas</hi> ostendit illam pulchram.</seg>
+</div>
+<div type="verse" n="50">
+<seg rend="italic" type="Danielis">alii dicunt ideo magis per Chalcidem
+Theocritum significari, quod de Chalcide profecti sint qui Naxum in
+Sicilia condiderunt. alii volunt ipsum Theocritum de Sicilia ad Chalcidem
+postea migrasse. circa hanc Chalcidem ille euripus est, qui
+septies in uno die aestu maris fluit ac refluit. sinus ipse, in quo supra
+dicta loca constituta sunt, Salganeus dicitur.</seg>
+</div>
+<div type="verse" n="52">
+</div>
+<div type="verse" n="54">
+<seg rend="italic" type="Danielis">sane breviter dictus iste totus sensus.</seg>
+</div>
+<div type="verse" n="55">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">mixtis lvstrabo m. n. </hi>ὑπαλλαγὴ pro 'inmixtus nymphis':
+multis enim unus miscetur.</seg>
+</div>
+<div type="verse" n="57">
+<seg rend="italic" type="Danielis">vel a Parthenio,
+Iovis filio, Arcadis fratre: vel quod ibi virginitas Callistonis delibat
+sit: vel quod Partheniae, Lacedaemonii, duce Phalanto ibi aliquando
+consedissent, priusquam in Italiam navigarent ac Tarentum conderent</seg>
+<seg rend="italic" type="Danielis"><hi rend="small-caps">vetabvnt frigora</hi> quasi amore ardens loquitur.</seg>
+</div>
+<div type="verse" n="60">
+</div>
+<div type="verse" n="62">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">iam neqve hamadryades r. n. c. n. i. p.</hi> amantis animum
+expressit, cui quod ante placuit, statim displicet.</seg>
+<seg rend="italic" type="Danielis">oreades quae in montibus. sane ab ovibus
+nymphae perimelides, a fluminibus naides, a pratis limonides, ab alimonia
+infantum curotrophae nominantur</seg>
+</div>
+<div type="verse" n="63">
+<seg rend="italic" type="Danielis">'concedite' vero hic 'abite', supra alite
+"concede laborem".</seg>
+</div>
+<div type="verse" n="65">
+</div>
+<div type="verse" n="66">
+<seg rend="italic" type="Danielis">vel gens</seg>
+<seg rend="italic" type="Danielis">a
+rege Sithone, patre Phyllidis, quae Demophoonta amavit.</seg>
+</div>
+<div type="verse" n="67">
+</div>
+<div type="verse" n="68">
+<seg rend="italic" type="Danielis">quoniam qui pascit, huc et illuc agit
+pecus, quod est versare, ut est in Aeneide "tu currum deserto
+in gramine versas": aut exerceamus et tractemus, ut in undecimo
+"consilio versare dolos ingressus" et item
+"seu versare dolos seu certae occumbere morti"</seg>
+</div>
+<div type="verse" n="69">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">omnia vincit amor et nos cedamvs amori</hi> cuivis enim facilius
+quam Amori repugnatur, quod eleganter Plautus explicuit "qui
+amans egens ingressus est princeps in Amoris viam, superavit
+aerumnis in suis aerumnas Herculis: nam cum leone,
+cum excetra, cum apro Aetolico, cum avibus Stymphalicis,
+cum Antaeo me deluctari malueram, quam cum Amore".</seg>
+</div>
+<div type="verse" n="70">
+</div>
+<div type="verse" n="71">
+</div>
+<div type="verse" n="74">
+<seg rend="italic" type="Danielis">'vere novo'
+vel generaliter, vel sibi novo. 'viridis' autem pro tenera. et hoc dicit:</seg>
+<seg rend="italic" type="Danielis">'subicit'
+vero vel sursum iacit, vel subter iacit.</seg>
+</div>
+<div type="verse" n="76">
+<seg rend="italic" type="Danielis"><hi rend="small-caps">nocent</hi></seg>
+</div>
+<div type="verse" n="77">
+<seg rend="italic" type="Danielis">quamvis alii dicant, ideo eum etiam capellarum se memorasse pastorem,
+quod apud nonnullos de capris propter abundantiam lactis vel
+fetuum maior fructus putetur, ut ipse ait "densior hinc suboles, hinc
+largi copia lactis", et item "quo minor est illis curae mortalis
+egestas"</seg>
+</div>
+</div>
+   </body>
+ </text>
+</TEI>

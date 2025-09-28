@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De tranquillitate animi</title>
+        <author>Seneca</author>
+        <funder>Volkswagen Foundation</funder>
+      </titleStmt>
+      <editionStmt>
+        <p>The electronic version of Senecas De tranquillitate animi from L. D. Reynolds (ed.), L. Annaei Senecae: Dialogorum Libri Duodecim, Oxford University Press 1977, 207-238 was created in 2023 as part of the project "(Ir)reproducibility of Scientific Research in the Digital Humanities?".</p>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Leipzig University, Trier University</publisher>
+        <pubPlace>Leipzig, Trier</pubPlace>
+        <date type="release">2023</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under Creative Commons Attribution-Noncommercial-Share Alike 4.0 International</licence>
+        </availability>
+        <idno type="CTS">urn:cts:classics:latLit.phi1017012tranquillitate.replicatio.v01</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Seneca</author>
+            <editor>L. D. Reynolds</editor>
+            <title>L. Annaei Senecae: Dialogorum Libri Duodecim</title>
+            <title type="sub">De tranquillitate animi</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <date when="1977">1977</date>
+            </imprint>
+            <biblScope unit="book">9</biblScope>
+            <biblScope unit="page" from="207" to="238">207-238</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change n="01" when="2023-06-14">Initial version</change>
+    </revisionDesc>
+  </teiHeader>
+ <text>
+   <body>
+<div type="book" n="9">
+<div type="chapter" n="t">
+<label>DIALOGORVM LIBER IX</label>
+<label>AD SERENVM</label>
+<label>DE TRANQVILLITATE ANIMI</label>
+</div>
+<div type="chapter" n="1">
+<div type="section" n="1">
+<label>&lt;Serenvs&gt;</label> Inquirenti mihi in me quaedam uitia apparebant,
+Seneca, in aperto posita, quae manu prenderem,
+quaedam obscuriora et in recessu, quaedam non continua
+sed ex interuallis redeuntia, quae uel molestissima dixerim,
+ut hostis uagos et ex occasionibus adsilientis, per quos
+neutrum licet, nec tamquam in bello paratum esse nec
+tamquam in pace securum.
+</div>
+<div type="section" n="2">
+Illum tamen habitum in me
+maxime deprendo (quare enim non uerum ut medico
+fatear?), nec bona fide liberatum me eis quae timebam et
+oderam nec rursus obnoxium; in statu ut non pessimo, ita
+maxime querulo et moroso positus sum: nec aegroto nec
+ualeo.
+</div>
+<div type="section" n="3">
+Non est quod dicas omnium uirtutium tenera esse
+principia, tempore illis duramentum et robur accedere;
+non ignoro etiam quae in speciem laborant, dignitatem
+dico et eloquentiae famam et quidquid ad alienum suffragium
+uenit, mora conualescere — et quae ueras uires
+parant et quae ad placendum fuco quodam subornantur
+expectant annos donec paulatim colorem diuturnitas ducat
+— sed ego uereor ne consuetudo, quae rebus adfert constantiam,
+hoc uitium mihi altius figat: tam malorum quam
+bonorum longa conuersatio amorem induit.
+</div>
+<div type="section" n="4">
+Haec animi inter utrumque dubii nec ad recta fortiter nec
+ad praua uergentis infirmitas qualis sit, non tam semel tibi
+possum quam per partes ostendere; dicam quae accidant
+mihi, tu morbo nomen inuenies.
+</div>
+<div type="section" n="5">
+Tenet me summus amor
+parsimoniae, fateor: placet non in ambitionem cubile
+compositum, non ex arcula prolata uestis, non ponderibus
+ac mille tormentis splendere cogentibus expressa sed
+domestica et uilis, nec seruata nec sumenda sollicite;
+</div>
+<div type="section" n="6">
+placet
+cibus quem nec parent familiae nec spectent, non ante
+multos imperatus dies nec multorum manibus ministratus,
+sed parabilis facilisque, nihil habens arcessiti pretiosiue,
+ubilibet non defuturus, nec patrimonio nec corpori grauis,
+non rediturus qua intrauerit;
+</div>
+<div type="section" n="7">
+placet minister incultus et
+rudis uernula, argentum graue rustici patris sine ullo
+nomine artificis, et mensa non uarietate macularum conspicua
+nec per multas dominorum elegantium successiones
+ciuitati nota, sed in usum posita, quae nullius conuiuae
+oculos nec uoluptate moretur nec accendat inuidia.
+</div>
+<div type="section" n="8">
+Cum
+bene ista placuerunt, praestringit animum apparatus alicuius
+paedagogii, diligentius quam in tralatu uestita et
+auro culta mancipia et agmen seruorum nitentium, iam
+domus etiam qua calcatur pretiosa et diuitiis per omnes
+angulos dissipatis tecta ipsa fulgentia et adsectator comesque
+patrimoniorum pereuntium populus; quid perlucentis
+ad imum aquas et circumfluentis ipsa conuiuia, quid epulas
+loquar scaena sua dignas?
+</div>
+<div type="section" n="9">
+Circumfudit me ex longo
+frugalitatis situ uenientem multo splendore luxuria et
+undique circumsonuit: paulum titubat acies, facilius aduersus
+illam animum quam oculos attollo; recedo itaque
+non peior sed tristior, nec inter illa friuola mea tam altus
+incedo tacitusque morsus subit et dubitatio numquid illa
+meliora sint. Nihil horum me mutat, nihil tamen non concutit.
+</div>
+<div type="section" n="10">
+Placet imperia praeceptorum sequi et in mediam ire rem
+publicam; placet honores fascisque non scilicet purpura aut
+uirgis abductum capessere, sed ut amicis propinquisque
+et omnibus ciuibus, omnibus deinde mortalibus paratior
+utiliorque sim. Promptus [sim positus] sequor Zenona,
+Cleanthen, Chrysippum, quorum tamen nemo ad rem
+publicam accessit, et nemo non misit.
+</div>
+<div type="section" n="11">
+Vbi aliquid animum
+insolitum arietari percussit, ubi aliquid occurrit aut indignum,
+ut in omni uita humana multa sunt, aut parum
+ex facili fluens, aut multum temporis res non magno aestimandae
+poposcerunt, ad otium conuertor et, quemadmodum
+pecoribus fatigatis quoque, uelocior domum gradus
+est. Placet intra parietes suos uitam coercere: 'nemo ullum
+auferat diem nihil dignum tanto inpendio redditurus;
+sibi ipse animus haereat, se colat, nihil alieni agat, nihil
+quod ad iudicem spectet; ametur expers publicae priuataeque
+curae tranquillitas.'
+</div>
+<div type="section" n="12">
+Sed ubi lectio fortior erexit
+animum et aculeos subdiderunt exempla nobilia, prosilire
+libet in forum, commodare alteri uocem, alteri operam,
+etiam si nihil profuturam, tamen conaturam prodesse,
+alicuius coercere [in foro] superbiam male secundis rebus
+elati.
+</div>
+<div type="section" n="13">
+In studiis puto mehercules melius esse res ipsas intueri
+et harum causa loqui, ceterum uerba rebus permittere, ut
+qua duxerint hac inelaborata sequatur oratio: 'quid opus
+est saeculis duratura componere? Vis tu non id agere ne
+te posteri taceant? Morti natus es, minus molestiarum
+habet funus tacitum. Itaque occupandi temporis causa
+in usum tuum, non in praeconium aliquid simplici stilo
+scribe: minore labore opus est studentibus in diem.'
+</div>
+<div type="section" n="14">
+Rursus
+ubi se animus cogitationum magnitudine leuauit, ambitiosus
+in uerba est altiusque ut spirare ita eloqui gestit et
+ad dignitatem rerum exit oratio; oblitus tum legis pressiorisque
+iudicii sublimius feror et ore iam non meo.
+</div>
+<div type="section" n="15">
+Ne singula diutius persequar, in omnibus rebus haec me
+sequitur bonae mentis infirmitas. †Cui† ne paulatim
+defluam uereor, aut, quod est sollicitius, ne semper casuro
+similis pendeam et plus fortasse sit quam quod ipse peruideo;
+familiariter enim domestica aspicimus et semper iudicio
+fauor officit.
+</div>
+<div type="section" n="16">
+Puto multos potuisse ad sapientiam peruenire,
+nisi putassent se peruenisse, nisi quaedam in se dissimulassent,
+quaedam opertis oculis transiluissent. Non est enim
+quod magis aliena &lt;nos&gt; iudices adulatione perire quam
+nostra. Quis sibi uerum dicere ausus est? Quis non inter
+laudantium blandientiumque positus greges plurimum
+tamen sibi ipse adsentatus est?
+</div>
+<div type="section" n="17">
+Rogo itaque, si quod
+habes remedium quo hanc fluctuationem meam sistas,
+dignum me putes qui tibi tranquillitatem debeam. Non
+esse periculosos &lt;hos&gt; motus animi nec quicquam tumultuosi
+adferentis scio; ut uera tibi similitudine id de quo
+queror exprimam, non tempestate uexor sed nausea: detrahe
+ergo quidquid hoc est mali et succurre in conspectu
+terrarum laboranti.
+</div>
+</div>
+<div type="chapter" n="2">
+<div type="section" n="1">
+<label>&lt;Seneca&gt;</label> Quaero mehercules iam dudum, Serene, ipse
+tacitus, cui talem adfectum animi similem putem, nec ulli
+propius admouerim exemplo quam eorum qui ex longa
+et graui ualetudine expliciti motiunculis leuibusque interim
+offensis perstringuntur et, cum reliquias effugerunt,
+suspicionibus tamen inquietantur medicisque iam sani
+manum porrigunt et omnem calorem corporis sui calumniantur.
+Horum, Serene, non parum sanum est corpus, sed
+sanitati parum adsueuit, sicut est quidam tremor etiam
+tranquilli maris, utique cum ex tempestate requieuit.
+</div>
+<div type="section" n="2">
+Opus est itaque non illis durioribus quae iam transcucurrimus,
+ut alicubi obstes tibi, alicubi irascaris, alicubi instes
+grauis, sed illo quod ultimum uenit, ut fidem tibi habeas et
+recta ire te uia credas, nihil auocatus transuersis multorum
+uestigiis passim discurrentium, quorundam circa ipsam
+errantium uiam.
+</div>
+<div type="section" n="3">
+Quod desideras autem magnum et summum
+est deoque uicinum, non concuti. Hanc stabilem
+animi sedem Graeci εὐθυμίαν uocant, de qua Democriti
+uolumen egregium est, ego tranquillitatem uoco; nec enim
+imitari et transferre uerba ad illorum formam necesse est:
+res ipsa de qua agitur aliquo signanda nomine est, quod
+appellationis Graecae uim debet habere, non faciem.
+</div>
+<div type="section" n="4">
+Ergo
+quaerimus quomodo animus semper aequali secundoque
+cursu eat propitiusque sibi sit et sua laetus aspiciat et
+hoc gaudium non interrumpat, sed placido statu maneat
+nec attollens se umquam nec deprimens: id tranquillitas
+erit. Quomodo ad hanc perueniri possit in uniuersum quaeramus:
+sumes tu ex publico remedio quantum uoles.
+</div>
+<div type="section" n="5">
+Totum
+interim uitium in medium protrahendum est, ex quo agnoscet
+quisque partem suam; simul tu intelleges quanto
+minus negotii habeas cum fastidio tui quam ii quos ad professionem
+speciosam alligatos et sub ingenti titulo laborantis
+in sua simulatione pudor magis quam uoluntas tenet.
+</div>
+<div type="section" n="6">
+Omnes in eadem causa sunt, et hi qui leuitate uexantur
+ac taedio adsiduaque mutatione propositi, quibus semper
+magis placet quod reliquerunt, et illi qui marcent et oscitantur.
+Adice eos qui non aliter quam quibus difficilis
+somnus est uersant se et hoc atque illo modo componunt
+donec quietem lassitudine inueniant: statum uitae suae
+reformando subinde in eo nouissime manent in quo illos
+non mutandi odium sed senectus ad nouandum pigra
+deprendit. Adice et illos qui non constantiae uitio parum
+leues sunt sed inertiae, et uiuunt non quomodo uolunt sed
+quomodo coeperunt.
+</div>
+<div type="section" n="7">
+Innumerabiles deinceps proprietates
+sunt sed unus effectus uitii, sibi displicere. Hoc oritur ab
+intemperie animi et cupiditatibus timidis aut parum
+prosperis, ubi aut non audent quantum concupiscunt aut
+non consequuntur et in spem toti prominent; semper instabiles
+mobilesque sunt, quod necesse est accidere pendentibus.
+Ad uota sua omni uia tendunt et inhonesta se
+ac difficilia docent coguntque, et ubi sine praemio labor
+est, torquet illos inritum dedecus, nec dolent praua se
+&lt;sed&gt; frustra uoluisse.
+</div>
+<div type="section" n="8">
+Tunc illos et paenitentia coepti
+tenet et incipiendi timor subrepitque illa animi iactatio
+non inuenientis exitum, quia nec imperare cupiditatibus
+suis nec obsequi possunt, et cunctatio uitae parum se
+explicantis et inter destituta uota torpentis animi situs.
+</div>
+<div type="section" n="9">
+Quae omnia grauiora sunt, ubi odio infelicitatis operosae
+ad otium perfugerunt, ad secreta studia, quae pati non
+potest animus ad ciuilia erectus agendique cupidus et
+natura inquies, parum scilicet in se solaciorum habens;
+ideo, detractis oblectationibus quas ipsae occupationes
+discurrentibus praebent, domum solitudinem parietes non
+fert, inuitus aspicit se sibi relictum.
+</div>
+<div type="section" n="10">
+Hinc illud est taedium
+et displicentia sui et nusquam residentis animi uolutatio et
+otii sui tristis atque aegra patientia, utique ubi causas fateri
+pudet et tormenta introsus egit uerecundia, in angusto
+inclusae cupiditates sine exitu se ipsae strangulant; inde
+maeror marcorque et mille fluctus mentis incertae, quam
+spes inchoatae suspensam habent, deploratae tristem; inde
+ille adfectus otium suum detestantium querentiumque
+nihil ipsos habere quod agant et alienis incrementis inimicissima
+inuidia. Alit enim liuorem infelix inertia et
+omnes destrui cupiunt, quia se non potuere prouehere;
+</div>
+<div type="section" n="11">
+ex hac deinde auersatione alienorum processuum et suorum
+desperatione obirascens fortunae animus et de saeculo
+querens et in angulos se retrahens et poenae incubans suae,
+dum illum taedet sui pigetque. Natura enim humanus
+animus agilis est et pronus ad motus. Grata omnis illi
+excitandi se abstrahendique materia est, gratior pessimis
+quibusque ingeniis quae occupationibus libenter deteruntur;
+ut ulcera quaedam nocituras manus adpetunt et tactu
+gaudent et foedam corporum scabiem delectat quidquid
+exasperat, non aliter dixerim his mentibus in quas cupiditates
+uelut mala ulcera eruperunt uoluptati esse laborem
+uexationemque.
+</div>
+<div type="section" n="12">
+Sunt enim quaedam quae corpus quoque
+nostrum cum quodam dolore delectent, ut uersare se et
+mutare nondum fessum latus et alio atque alio positu
+uentilari: qualis ille Homericus Achilles est, modo pronus,
+modo supinus, in uarios habitus se ipse componens, quod
+proprium aegri est, nihil diu pati et mutationibus ut
+remediis uti.
+</div>
+<div type="section" n="13">
+Inde peregrinationes suscipiuntur uagae et
+litora pererrantur et modo mari se modo terra experitur
+semper praesentibus infesta leuitas. 'Nunc Campaniam
+petamus.' Iam delicata fastidio sunt: 'inculta uideantur,
+Bruttios et Lucaniae saltus persequamur.' Aliquid tamen
+inter deserta amoeni requiritur, in quo luxuriosi oculi longo
+locorum horrentium squalore releuentur: 'Tarentum petatur
+laudatusque portus et hiberna caeli mitioris et regio uel
+antiquae satis opulenta turbae.' 'Iam flectamus cursum ad
+urbem': nimis diu a plausu et fragore aures uacauerunt,
+iuuat iam et humano sanguine frui.
+</div>
+<div type="section" n="14">
+Aliud ex alio iter suscipitur
+et spectacula spectaculis mutantur. Vt ait Lucretius,
+hoc se quisque modo semper fugit.
+Sed quid prodest, si non effugit? sequitur se ipse et urget
+grauissimus comes.
+</div>
+<div type="section" n="15">
+Itaque scire debemus non locorum
+uitium esse quo laboramus, sed nostrum: infirmi sumus ad
+omne tolerandum, nec laboris patientes nec uoluptatis nec
+nostri nec ullius rei diutius. Hoc quosdam egit ad mortem,
+quod proposita saepe mutando in eadem reuoluebantur et
+non reliquerant nouitati locum: fastidio esse illis coepit
+uita et ipse mundus et subît illud tabidarum deliciarum:
+'quousque eadem?'
+</div>
+</div>
+<div type="chapter" n="3">
+<div type="section" n="1">
+Aduersus hoc taedium quo auxilio putem utendum quaeris.
+Optumum erat, ut ait Athenodorus, actione rerum
+et rei publicae tractatione et officiis ciuilibus se detinere.
+Nam ut quidam sole atque exercitatione et cura corporis
+diem educunt athletisque longe utilissimum est lacertos
+suos roburque, cui se uni dicauerunt, maiore temporis
+parte nutrire, ita uobis animum ad rerum ciuilium certamen
+parantibus in opere esse [non] longe pulcherrimum
+est; nam cum utilem se efficere ciuibus mortalibusque
+propositum habeat, simul et exercetur et proficit qui in
+mediis se officiis posuit communia priuataque pro facultate
+administrans.
+</div>
+<div type="section" n="2">
+'Sed quia in hac' inquit 'tam insana hominum
+ambitione tot calumniatoribus in deterius recta torquentibus
+parum tuta simplicitas est et plus futurum semper est
+quod obstet quam quod succedat, a foro quidem et publico
+recedendum est, sed habet ubi se etiam in priuato laxe
+explicet magnus animus; nec ut leonum animaliumque
+impetus caueis coercetur, sic hominum, quorum maximae
+in seducto actiones sunt.
+</div>
+<div type="section" n="3">
+Ita tamen delituerit ut, ubicumque
+otium suum absconderit, prodesse uelit singulis uniuersisque
+ingenio uoce consilio; nec enim is solus rei publicae
+prodest qui candidatos extrahit et tuetur reos et de pace
+belloque censet, sed qui iuuentutem exhortatur, qui in
+tanta bonorum praeceptorum inopia uirtutem instillat animis,
+qui ad pecuniam luxuriamque cursu ruentis prensat
+ac retrahit et, si nihil aliud, certe moratur, in priuato
+publicum negotium agit.
+</div>
+<div type="section" n="4">
+An ille plus praestat qui inter
+peregrinos et ciues aut urbanus praetor adeuntibus adsessoris
+uerba pronuntiat quam qui quid sit iustitia, quid pietas,
+quid patientia, quid fortitudo, quid mortis contemptus,
+quid deorum intellectus, quam gratuitum bonum sit bona
+conscientia?
+</div>
+<div type="section" n="5">
+Ergo si tempus in studia conferas quod subduxeris
+officiis, non deserueris nec munus detrectaueris.
+Neque enim ille solus militat qui in acie stat et cornu dextrum
+laeuumque defendit, sed &lt;et&gt; qui portas tuetur et
+statione minus periculosa, non otiosa tamen fungitur uigiliasque
+seruat et armamentario praeest; quae ministeria,
+quamuis incruenta sint, in numerum stipendiorum ueniunt.
+</div>
+<div type="section" n="6">
+Si te ad studia reuocaueris, omne uitae fastidium effugeris
+nec noctem fieri optabis taedio lucis, nec tibi grauis eris nec
+aliis superuacuus; multos in amicitiam adtrahes adfluetque
+ad te optumus quisque. Numquam enim quamuis obscura
+uirtus latet, sed mittit sui signa: quisquis dignus fuerit
+uestigiis illam colliget.
+</div>
+<div type="section" n="7">
+Nam si omnem conuersationem tollimus
+et generi humano renuntiamus uiuimusque in nos
+tantum conuersi, sequetur hanc solitudinem omni studio
+carentem inopia rerum agendarum: incipiemus aedificia
+alia ponere, alia subuertere et mare summouere et aquas
+contra difficultatem locorum educere et male dispensare
+tempus quod nobis natura consumendum dedit.
+</div>
+<div type="section" n="8">
+Alii parce
+illo utimur, alii prodige; alii sic inpendimus ut possimus
+rationem reddere, alii ut nullas habeamus reliquias, qua
+re nihil turpius est. Saepe grandis natu senex nullum
+aliud habet argumentum quo se probet diu uixisse praeter
+aetatem.'
+</div>
+</div>
+<div type="chapter" n="4">
+<div type="section" n="1">
+Mihi, carissime Serene, nimis uidetur summisisse temporibus
+se Athenodorus, nimis cito refugisse. Nec ego
+negauerim aliquando cedendum, sed sensim relato gradu
+et saluis signis, salua militari dignitate: sanctiores tutioresque
+sunt hostibus suis qui in fidem cum armis ueniunt.
+</div>
+<div type="section" n="2">
+Hoc
+puto uirtuti faciendum studiosoque uirtutis: si praeualebit
+fortuna et praecidet agendi facultatem, non statim auersus
+inermisque fugiat latebras quaerens, quasi ullus locus sit
+quo non possit fortuna persequi, sed parcius se inferat
+officiis et cum dilectu inueniat aliquid in quo utilis ciuitati
+sit.
+</div>
+<div type="section" n="3">
+Militare non licet: honores petat. Priuato uiuendum
+est: sit orator. Silentium indictum est: tacita aduocatione
+ciues iuuet. Periculosum etiam ingressu forum est: in
+domibus, in spectaculis, in conuiuiis bonum contubernalem,
+fidelem amicum, temperantem conuiuam agat. Officia
+ciuis amisit: hominis exerceat.
+</div>
+<div type="section" n="4">
+Ideo magno animo nos non
+unius urbis moenibus clusimus sed in totius orbis commercium
+emisimus patriamque nobis mundum professi
+sumus, ut liceret latiorem uirtuti campum dare. Praeclusum
+tibi tribunal est et rostris prohiberis aut comitiis:
+respice post te quantum latissimarum regionum pateat,
+quantum populorum; numquam ita tibi magna pars
+obstruetur ut non maior relinquatur.
+</div>
+<div type="section" n="5">
+Sed uide ne totum
+istud tuum uitium sit; non uis enim nisi consul aut prytanis
+aut ceryx aut sufes administrare rem publicam. Quid si
+militare nolis nisi imperator aut tribunus? Etiam si alii primam
+frontem tenebunt, te sors inter triarios posuerit, inde
+uoce adhortatione exemplo animo milita: praecisis quoque
+manibus ille in proelio inuenit quod partibus conferat qui
+stat tamen et clamore iuuat.
+</div>
+<div type="section" n="6">
+Tale quiddam facias: si a
+prima te rei publicae parte fortuna summouerit, stes tamen
+et clamore iuues et, si quis fauces oppresserit, stes tamen
+et silentio iuues. Numquam inutilis est opera ciuis boni:
+auditus uisusque, uultu nutu obstinatione tacita incessuque
+ipso prodest.
+</div>
+<div type="section" n="7">
+Vt salutaria quaedam citra gustum tactumque
+odore proficiunt, ita uirtus utilitatem etiam ex longinquo
+et latens fundit. Siue spatiatur et se utitur suo iure,
+siue precarios habet excessus cogiturque uela contrahere,
+siue otiosa mutaque est et &lt;in&gt; angusto circumsaepta, siue
+adaperta, in quocumque habitu est, prodest. Quid tu
+parum utile putas exemplum bene quiescentis?
+</div>
+<div type="section" n="8">
+Longe itaque
+optimum est miscere otium rebus, quotiens actuosa uita
+inpedimentis fortuitis aut ciuitatis condicione prohibebitur;
+numquam enim usque eo interclusa sunt omnia ut nulli
+actioni locus honestae sit.
+</div>
+</div>
+<div type="chapter" n="5">
+<div type="section" n="1">
+Numquid potes inuenire urbem miseriorem quam
+Atheniensium fuit, cum illam triginta tyranni diuellerent?
+Mille trecentos ciues, optimum quemque, occiderant nec
+finem ideo faciebant, sed inritabat se ipsa saeuitia. In qua
+ciuitate erat Areos pagos, religiosissimum iudicium, in qua
+senatus populusque senatu similis, coibat cotidie carnificum
+triste collegium et infelix curia tyrannis angustabatur: poteratne
+illa ciuitas conquiescere in qua tot tyranni erant quot
+&lt;satis&gt; satellites essent? Ne spes quidem ulla recipiendae
+libertatis animis poterat offerri, nec ulli remedio locus
+apparebat contra tantam uim malorum; unde enim miserae
+ciuitati tot Harmodios?
+</div>
+<div type="section" n="2">
+Socrates tamen in medio erat et
+lugentis patres consolabatur et desperantis de re publica
+exhortabatur et diuitibus opes suas metuentibus exprobrabat
+seram periculosae auaritiae paenitentiam et imitari
+uolentibus magnum circumferebat exemplar, cum inter
+triginta dominos liber incederet.
+</div>
+<div type="section" n="3">
+Hunc tamen Athenae
+ipsae in carcere occiderunt, et qui tuto insultauerat agmini
+tyrannorum, eius libertatem libertas non tulit: licet scias
+et in adflicta re publica esse occasionem sapienti uiro ad se
+proferendum et in florenti ac beata †pecuniam† inuidiam,
+mille alia inertia uitia regnare.
+</div>
+<div type="section" n="4">
+Vtcumque ergo se res
+publica dabit, utcumque fortuna permittet, ita aut explicabimus
+nos aut contrahemus, utique mouebimus nec
+alligati metu torpebimus. Immo ille uir fuerit qui periculis
+undique imminentibus, armis circa et catenis frementibus,
+non adliserit uirtutem nec absconderit; non est enim
+seruare se obruere.
+</div>
+<div type="section" n="5">
+&lt;Vere&gt;, ut opinor, Curius Dentatus
+aiebat malle esse se mortuum quam uiuere: ultimum malorum
+est e uiuorum numero exire antequam moriaris. Sed
+faciendum erit, si in rei publicae tempus minus tractabile
+incideris, ut plus otio ac litteris uindices, nec aliter
+quam in periculosa nauigatione subinde portum petas, nec
+expectes donec res te dimittant sed ab illis te ipse diiungas.
+</div>
+</div>
+<div type="chapter" n="6">
+<div type="section" n="1">
+Inspicere autem debebimus primum nosmet ipsos,
+deinde ea quae adgrediemur negotia, deinde eos quorum
+causa aut cum quibus.
+</div>
+<div type="section" n="2">
+Ante omnia necesse est se ipsum aestimare, quia fere
+plus nobis uidemur posse quam possumus: alius eloquentiae
+fiducia prolabitur, alius patrimonio suo plus imperauit
+quam ferre posset, alius infirmum corpus laborioso pressit
+officio. Quorundam parum idonea est uerecundia rebus
+ciuilibus, quae firmam frontem desiderant; quorundam
+contumacia non facit ad aulam; quidam non habent iram
+in potestate et illos ad temeraria uerba quaelibet indignatio
+effert; quidam urbanitatem nesciunt continere nec periculosis
+abstinent salibus: omnibus his utilior negotio quies
+est; ferox inpatiensque natura inritamenta nociturae libertatis
+euitet.
+</div>
+<div type="section" n="3">
+Aestimanda sunt deinde ipsa quae adgredimur, et uires
+nostrae cum rebus quas temptaturi sumus comparandae.
+Debet enim semper plus esse uirium in actore quam in
+opere: necesse est opprimant onera quae ferente maiora
+sunt.
+</div>
+<div type="section" n="4">
+Quaedam praeterea non tam magna sunt negotia
+quam fecunda multumque negotiorum ferunt: et haec
+refugienda sunt ex quibus noua occupatio multiplexque
+nascetur, nec accedendum eo unde liber regressus non sit;
+iis admouenda manus est quorum finem aut facere aut
+certe sperare possis, relinquenda quae latius actu procedunt
+nec ubi proposueris desinunt.
+</div>
+</div>
+<div type="chapter" n="7">
+<div type="section" n="1">
+Hominum utique dilectus habendus est, an digni sint
+quibus partem uitae nostrae inpendamus, an ad illos temporis
+nostri iactura perueniat; quidam enim ultro officia
+nobis nostra inputant.
+</div>
+<div type="section" n="2">
+Athenodorus ait ne ad cenam quidem
+se iturum ad eum qui sibi nil pro hoc debiturus sit. Puto
+intellegis multo minus ad eos iturum qui cum amicorum
+officiis paria mensa faciunt, qui fericula pro congiariis
+numerant, quasi in alienum honorem intemperantes sint:
+deme illis testes spectatoresque, non delectabit popina secreta.
+* Considerandum est utrum natura tua agendis
+rebus an otioso studio contemplationique aptior sit, et eo
+inclinandum quo te uis ingenii feret: Isocrates Ephorum
+iniecta manu a foro subduxit, utiliorem componendis
+monumentis historiarum ratus. Male enim respondent
+coacta ingenia; reluctante natura inritus labor est. *
+</div>
+<div type="section" n="3">
+Nihil tamen aeque oblectauerit animum quam amicitia
+fidelis et dulcis. Quantum bonum est ubi praeparata sunt
+pectora in quae tuto secretum omne descendat, quorum
+conscientiam minus quam tuam timeas, quorum sermo
+sollicitudinem leniat, sententia consilium expediat, hilaritas
+tristitiam dissipet, conspectus ipse delectet! Quos scilicet
+uacuos, quantum fieri poterit, a cupiditatibus eligemus;
+serpunt enim uitia et in proximum quemque transiliunt et
+contactu nocent.
+</div>
+<div type="section" n="4">
+Itaque ut [quod] in pestilentia curandum
+est ne correptis iam corporibus et morbo flagrantibus
+adsideamus, quia pericula trahemus adflatuque ipso
+laborabimus, ita in amicorum legendis ingeniis dabimus
+operam ut quam minime inquinatos adsumamus: initium
+morbi est aegris sana miscere. Nec hoc praeceperim tibi, ut
+neminem nisi sapientem sequaris aut adtrahas. Vbi enim
+istum inuenies quem tot saeculis quaerimus? Pro optimo
+sit minime malus.
+</div>
+<div type="section" n="5">
+Vix tibi esset facultas dilectus felicioris,
+si inter Platonas et Xenophontas et illum Socratici fetus
+prouentum bonos quaereres, aut si tibi potestas Catonianae
+fieret aetatis, quae plerosque dignos tulit qui Catonis
+saeculo nascerentur (sicut multos peiores quam umquam
+alias maximorumque molitores scelerum; utraque enim
+turba opus erat ut Cato posset intellegi: habere debuit
+et bonos quibus se adprobaret et malos in quibus uim
+suam experiretur): nunc uero in tanta bonorum egestate
+minus fastidiosa fiat electio.
+</div>
+<div type="section" n="6">
+Praecipue tamen uitentur
+tristes et omnia deplorantes, quibus nulla non causa in
+querellas placet. Constet illi licet fides et beniuolentia,
+tranquillitati tamen inimicus est comes perturbatus et omnia
+gemens.
+</div>
+</div>
+<div type="chapter" n="8">
+<div type="section" n="1">
+Transeamus ad patrimonia, maximam humanarum
+aerumnarum materiam; nam si omnia alia quibus angimur
+compares, mortes aegrotationes metus desideria dolorum
+laborumque patientiam, cum iis quae nobis mala pecunia
+nostra exhibet, haec pars multum praegrauabit.
+</div>
+<div type="section" n="2">
+Itaque
+cogitandum est quanto leuior dolor sit non habere quam
+perdere: et intellegemus paupertati eo minorem tormentorum
+quo minorem damnorum esse materiam. Erras
+enim si putas animosius detrimenta diuites ferre: maximis
+minimisque corporibus par est dolor uulneris.
+</div>
+<div type="section" n="3">
+Bion eleganter
+ait non minus molestum esse caluis quam comatis
+pilos uelli. Idem scias licet de pauperibus locupletibusque,
+par illis esse tormentum; utrique enim pecunia sua obhaesit
+nec sine sensu reuelli potest. Tolerabilius autem est, ut dixi,
+faciliusque non adquirere quam amittere, ideoque laetiores
+uidebis quos numquam fortuna respexit quam quos
+deseruit.
+</div>
+<div type="section" n="4">
+Vidit hoc Diogenes, uir ingentis animi, et effecit
+ne quid sibi eripi posset. Tu istud paupertatem inopiam
+egestatem uoca, quod uoles ignominiosum securitati
+nomen inpone: putabo hunc non esse felicem, si quem mihi
+alium inueneris cui nihil pereat. Aut ego fallor aut regnum
+est inter auaros circumscriptores latrones plagiarios unum
+esse cui noceri non possit.
+</div>
+<div type="section" n="5">
+Si quis de felicitate Diogenis
+dubitat, potest idem dubitare et de deorum inmortalium
+statu, an parum beate degant quod illis nec praedia nec
+horti sint nec alieno colono rura pretiosa nec grande in
+foro fenus. Non te pudet, quisquis diuitiis adstupes? Respice
+agedum mundum: nudos uidebis deos, omnia dantis,
+nihil habentis. Hunc tu pauperem putas an dis inmortalibus
+similem qui se fortuitis omnibus exuit?
+</div>
+<div type="section" n="6">
+Feliciorem tu
+Demetrium Pompeianum uocas, quem non puduit locupletiorem
+esse Pompeio? Numerus illi cotidie seruorum
+uelut imperatori exercitus referebatur, cui iam dudum
+diuitiae esse debuerant duo uicarii et cella laxior.
+</div>
+<div type="section" n="7">
+At Diogeni
+seruus unicus fugit nec eum reducere, cum monstraretur,
+tanti putauit. 'Turpe est' inquit 'Manen sine Diogene
+posse uiuere, Diogenen sine Mane non posse.' Videtur
+mihi dixisse: 'age tuum negotium, fortuna, nihil apud
+Diogenen iam tui est: fugit mihi seruus, immo liber abii.'
+</div>
+<div type="section" n="8">
+Familia petit uestiarium uictumque, tot uentres auidissimorum
+animalium tuendi sunt, emenda uestis et custodiendae
+rapacissimae manus et flentium detestantiumque
+ministeriis utendum: quanto ille felicior qui nihil ulli debet
+nisi cui facillime negat, sibi!
+</div>
+<div type="section" n="9">
+Sed quoniam non est nobis
+tantum roboris, angustanda certe sunt patrimonia, ut
+minus ad iniurias fortunae simus expositi. Habiliora sunt
+corpora in bello quae in arma sua contrahi possunt quam
+quae superfunduntur et undique magnitudo sua uulneribus
+obiecit: optimus pecuniae modus est qui nec in paupertatem
+cadit nec procul a paupertate discedit.
+</div>
+</div>
+<div type="chapter" n="9">
+<div type="section" n="1">
+Placebit autem haec nobis mensura, si prius parsimonia
+placuerit, sine qua nec ullae opes sufficiunt, nec ullae non
+satis patent, praesertim cum in uicino remedium sit et
+possit ipsa paupertas in diuitias se aduocata frugalitate
+conuertere.
+</div>
+<div type="section" n="2">
+Adsuescamus a nobis remouere pompam et
+usus rerum, non ornamenta metiri. Cibus famem domet,
+potio sitim, libido qua necesse est fluat; discamus membris
+nostris inniti, cultum uictumque non ad noua exempla
+componere, sed ut maiorum mores suadent; discamus
+continentiam augere, luxuriam coercere, gloriam temperare,
+iracundiam lenire, paupertatem aequis oculis
+aspicere, frugalitatem colere †etiam si mulos pudebit ei
+plus†, desideriis naturalibus paruo parata remedia adhibere,
+spes effrenatas et animum in futura imminentem uelut sub
+uinculis habere, id agere ut diuitias a nobis potius quam
+a fortuna petamus.
+</div>
+<div type="section" n="3">
+Non potest umquam tanta uarietas et
+iniquitas casuum ita depelli ut non multum procellarum
+inruat magna armamenta pandentibus; cogendae in artum
+res sunt ut tela in uanum cadant, ideoque exilia interim
+calamitatesque in remedium cessere et leuioribus incommodis
+grauiora sanata sunt. Vbi parum audit praecepta animus
+nec curari mollius potest, quidni consulatur ei, si paupertas
+et ignominia et rerum euersio adhibetur, malo malum
+opponitur? Adsuescamus ergo cenare posse sine populo et
+seruis paucioribus seruire et uestes parare in quod inuentae
+sunt et habitare contractius. Non in cursu tantum circique
+certamine, sed in his spatiis uitae interius flectendum est.
+</div>
+<div type="section" n="4">
+Studiorum quoque quae liberalissima inpensa est tam
+diu rationem habet quam diu modum. Quo innumerabiles
+libros et bybliothecas, quarum dominus uix tota uita
+indices perlegit? onerat discentem turba, non instruit,
+multoque satius est paucis te auctoribus tradere quam
+errare per multos.
+</div>
+<div type="section" n="5">
+Quadraginta milia librorum Alexandriae
+arserunt; pulcherrimum regiae opulentiae monumentum
+alius laudauerit, sicut T. Liuius, qui elegantiae
+regum curaeque egregium id opus ait fuisse: non fuit elegantia
+illud aut cura, sed studiosa luxuria, immo ne studiosa
+quidem, quoniam non in studium sed in spectaculum
+comparauerant, sicut plerisque ignaris etiam puerilium litterarum
+libri non studiorum instrumenta sed cenationum
+ornamenta sunt. Paretur itaque librorum quantum satis
+sit, nihil in apparatum.
+</div>
+<div type="section" n="6">
+'Honestius' inquis 'hoc se inpensae
+quam in Corinthia pictasque tabulas effuderint.' Vitiosum
+est ubique quod nimium est. Quid habes cur ignoscas
+homini armaria &lt;e&gt; citro atque ebore captanti, corpora
+conquirenti aut ignotorum auctorum aut inprobatorum et
+inter tot milia librorum oscitanti, cui uoluminum suorum
+frontes maxime placent titulique?
+</div>
+<div type="section" n="7">
+Apud desidiosissimos
+ergo uidebis quidquid orationum historiarumque est, tecto
+tenus exstructa loculamenta; iam enim inter balnearia et
+thermas bybliotheca quoque ut necessarium domus ornamentum
+expolitur. Ignoscerem plane, si studiorum nimia
+cupidine erraretur: nunc ista conquisita, cum imaginibus
+suis discripta [et] sacrorum opera ingeniorum in speciem
+et cultum parietum comparantur.
+</div>
+</div>
+<div type="chapter" n="10">
+<div type="section" n="1">
+At in aliquod genus uitae difficile incidisti et tibi ignoranti
+uel publica fortuna uel priuata laqueum inpegit quem
+nec soluere possis nec rumpere: cogita compeditos primo
+aegre ferre onera et inpedimenta crurum; deinde, ubi non
+indignari illa sed pati proposuerunt, necessitas fortiter
+ferre docet, consuetudo facile. Inuenies in quolibet genere
+uitae oblectamenta et remissiones et uoluptates, si uolueris
+mala putare leuia potius quam inuidiosa facere.
+</div>
+<div type="section" n="2">
+Nullo
+melius nomine de nobis natura meruit, quae, cum sciret
+quibus aerumnis nasceremur, calamitatium mollimentum
+consuetudinem inuenit, cito in familiaritatem grauissima
+adducens. Nemo duraret, si rerum aduersarum eandem
+uim adsiduitas haberet quam primus ictus.
+</div>
+<div type="section" n="3">
+Omnes cum
+fortuna copulati sumus: aliorum aurea catena est, laxa,
+aliorum arta et sordida, sed quid refert? eadem custodia
+uniuersos circumdedit alligatique sunt etiam qui alligauerunt,
+nisi forte tu leuiorem in sinistra catenam putas.
+Alium honores, alium opes uinciunt; quosdam nobilitas,
+quosdam humilitas premit; quibusdam aliena supra
+caput imperia sunt, quibusdam sua; quosdam exilia uno
+loco tenent, quosdam sacerdotia: omnis uita seruitium est.
+</div>
+<div type="section" n="4">
+Adsuescendum est itaque condicioni suae et quam minimum
+de illa querendum et quidquid habet circa se commodi
+adprendendum: nihil tam acerbum est in quo non aequus
+animus solacium inueniat. Exiguae saepe areae in multos
+usus discribentis arte patuerunt et quamuis angustum
+pedem dispositio fecit habitabilem. Adhibe rationem difficultatibus:
+possunt et dura molliri et angusta laxari et
+grauia scite ferentis minus premere.
+</div>
+<div type="section" n="5">
+Non sunt praeterea
+cupiditates in longinqua mittendae, sed in uicinum illis
+egredi permittamus, quoniam includi ex toto non patiuntur.
+Relictis iis quae aut non possunt fieri aut difficulter
+possunt, prope posita speique nostrae adludentia sequamur,
+sed sciamus omnia aeque leuia esse, extrinsecus diuersas
+facies habentia, introrsus pariter uana. Nec inuideamus
+altius stantibus: quae excelsa uidebantur praerupta sunt.
+</div>
+<div type="section" n="6">
+Illi rursus quos sors iniqua in ancipiti posuit tutiores
+erunt superbiam detrahendo rebus per se superbis et fortunam
+suam quam maxime poterunt in planum deferendo.
+Multi quidem sunt quibus necessario haerendum sit in
+fastigio suo, ex quo non possunt nisi cadendo descendere,
+sed hoc ipsum testentur maximum onus suum esse quod
+aliis graues esse cogantur, nec subleuatos se sed suffixos;
+iustitia mansuetudine humanitate, larga et benigna manu
+praeparent multa ad secundos casus praesidia, quorum spe
+securius pendeant. Nihil tamen aeque nos ab his animi fluctibus
+uindicauerit quam semper aliquem incrementis terminum
+figere, nec fortunae arbitrium desinendi dare, sed ipsos
+multo quidem citra [exempla hortentur] consistere; sic et
+aliquae cupiditates animum acuent et finitae non in inmensum
+incertumque producent.
+</div>
+</div>
+<div type="chapter" n="11">
+<div type="section" n="1">
+Ad inperfectos et mediocres et male sanos hic meus
+sermo pertinet, non ad sapientem. Huic non timide nec
+pedetemptim ambulandum est; tanta enim fiducia sui est
+ut obuiam fortunae ire non dubitet nec umquam loco illi
+cessurus sit. Nec habet ubi illam timeat, quia non mancipia
+tantum possessionesque et dignitatem sed corpus quoque
+suum et oculos et manum et quidquid cariorem uitam facit
+seque ipsum inter precaria numerat uiuitque ut commo-
+</div>
+<div type="section" n="2">
+datus sibi et reposcentibus sine tristitia redditurus. Nec ideo
+uilis est sibi quia scit se suum non esse, sed omnia tam
+diligenter faciet, tam circumspecte quam religiosus homo
+sanctusque solet tueri fidei commissa. Quandoque autem
+reddere iubebitur, non queretur cum fortuna sed dicet:
+</div>
+<div type="section" n="3">
+'gratias ago pro eo quod possedi habuique. Magna quidem
+res tuas mercede colui, sed quia ita imperas, do, cedo
+gratus libensque. Si quid habere me tui uolueris etiamnunc,
+seruabo; si aliud placet, ego uero factum signatumque
+argentum, domum familiamque meam reddo, restituo.'
+Appellauerit natura quae prior nobis credidit, et huic
+dicemus: 'recipe animum meliorem quam dedisti; non
+tergiuersor nec refugio; paratum habes a uolente quod non
+sentienti dedisti: aufer.'
+</div>
+<div type="section" n="4">
+Reuerti unde ueneris quid graue
+est? male uiuet quisquis nesciet bene mori. Huic itaque
+primum rei pretium detrahendum est et spiritus inter
+uilia numerandus. Gladiatores, ut ait Cicero, inuisos habemus,
+si omni modo uitam inpetrare cupiunt; fauemus, si
+contemptum eius prae se ferunt. Idem euenire nobis scias;
+</div>
+<div type="section" n="5">
+saepe enim causa moriendi est timide mori. Fortuna illa,
+quae ludos sibi facit, 'quo' inquit 'te reseruem, malum et
+trepidum animal? Eo magis conuulneraberis et confodieris,
+quia nescis praebere iugulum; at tu et uiues diutius et
+morieris expeditius qui ferrum non subducta ceruice nec
+manibus oppositis sed animose recipis.'
+</div>
+<div type="section" n="6">
+Qui mortem timebit
+nihil umquam pro homine uiuo faciet; at qui sciet hoc sibi
+cum conciperetur statim condictum, uiuet ad formulam et
+simul illud quoque eodem animi robore praestabit, ne quid
+ex iis quae eueniunt subitum sit. Quidquid enim [si] fieri
+potest quasi futurum sit prospiciendo malorum omnium
+impetus molliet, qui ad praeparatos expectantesque nihil
+adferunt noui, securis et beata tantum sperantibus graues
+ueniunt.
+</div>
+<div type="section" n="7">
+Morbus est, captiuitas ruina ignis: nihil horum repentinum
+est; sciebam in quam tumultuosum me contubernium
+natura clusisset. Totiens in uicinia mea conclamatum
+est; totiens praeter limen inmaturas exequias fax cereusque
+praecessit; saepe a latere ruentis aedificii fragor sonuit;
+multos ex iis quos forum curia sermo mecum contraxerat
+nox abstulit et †iunctas sodalium manus copulatas† interscidit:
+mirer ad me aliquando pericula accessisse quae
+circa me semper errauerint? Magna pars hominum est
+quae nauigatura de tempestate non cogitat.
+</div>
+<div type="section" n="8">
+Numquam me
+in bona re mali pudebit auctoris. Publilius, tragicis comicisque
+uehementior ingeniis quotiens mimicas ineptias et
+uerba ad summam caueam spectantia reliquit, inter multa
+alia coturno, non tantum sipario, fortiora et hoc ait:
+cuiuis potest accidere quod cuiquam potest.
+Hoc si quis in medullas demiserit et omnia aliena mala,
+quorum ingens cotidie copia est, sic aspexerit tamquam
+liberum illis et ad se iter sit, multo ante se armabit quam
+petatur; sero animus ad periculorum patientiam post
+pericula instruitur.
+</div>
+<div type="section" n="9">
+'Non putaui hoc futurum' et 'umquam
+tu hoc euenturum credidisses?' Quare autem non? Quae
+sunt diuitiae quas non egestas et fames et mendicitas a
+tergo sequatur? Quae dignitas cuius non praetextam et
+augurale et lora patricia sordes comitentur et exprobratio
+notae et mille maculae et extrema contemptio? Quod
+regnum est cui non parata sit ruina et proculcatio et dominus
+et carnifex? Nec magnis ista interuallis diuisa, sed horae
+momentum interest inter solium et aliena genua.
+</div>
+<div type="section" n="10">
+Scito
+ergo omnem condicionem uersabilem esse et quidquid in
+ullum incurrit posse in te quoque incurrere. Locuples es:
+numquid diuitior Pompeio? Cui cum Gaius, uetus cognatus,
+hospes nouus, aperuisset Caesaris domum ut suam
+cluderet, defuit panis, aqua. Cum tot flumina possideret in
+suo orientia, in suo cadentia, mendicauit stilicidia; fame ac
+siti periit in palatio cognati, dum illi heres publicum funus
+esurienti locat.
+</div>
+<div type="section" n="11">
+Honoribus summis functus es: numquid aut
+tam magnis aut tam insperatis aut tam uniuersis quam
+Seianus? Quo die illum senatus deduxerat populus in
+frusta diuisit; in quem quidquid congeri poterat di hominesque
+contulerant, ex eo nihil superfuit quod carnifex
+traheret.
+</div>
+<div type="section" n="12">
+Rex es: non ad Croesum te mittam, qui rogum
+suum et accendi uiuus et extingui uidit, factus non regno
+tantum, etiam morti suae superstes, non ad Iugurtham,
+quem populus Romanus intra annum quam timuerat
+spectauit: Ptolemaeum Africae regem, Armeniae Mithridaten
+inter Gaianas custodias uidimus; alter in exilium
+missus est, alter ut meliore fide mitteretur optabat. In
+tanta rerum susum ac deosum euntium uersatione si non
+quidquid fieri potest pro futuro habes, das in te uires rebus
+aduersis, quas infregit quisquis prior uidit.
+</div>
+</div>
+<div type="chapter" n="12">
+<div type="section" n="1">
+Proximum ab his erit ne aut in superuacuis aut ex
+superuacuo laboremus, id est ne quae aut non possumus
+consequi concupiscamus aut adepti uanitatem cupiditatium
+nostrarum sero post multum sudorem intellegamus,
+id est ne aut labor inritus sit sine effectu aut effectus labore
+indignus; fere enim ex his tristitia sequitur, si aut non
+successit aut successus pudet.
+</div>
+<div type="section" n="2">
+Circumcidenda concursatio,
+qualis est magnae parti hominum domos et theatra et fora
+pererrantium: alienis se negotiis offerunt, semper aliquid
+agentibus similes. Horum si aliquem exeuntem e domo
+interrogaueris 'quo tu? quid cogitas?' respondebit tibi
+'non mehercules scio; sed aliquos uidebo, aliquid agam.'
+</div>
+<div type="section" n="3">
+Sine proposito uagantur quaerentes negotia nec quae destinauerunt
+agunt sed in quae incucurrerunt; inconsultus
+illis uanusque cursus est, qualis formicis per arbusta repentibus,
+quae in summum cacumen et inde in imum inanes
+aguntur: his plerique similem uitam agunt, quorum non
+inmerito quis inquietam inertiam dixerit.
+</div>
+<div type="section" n="4">
+Quorundam
+quasi ad incendium currentium misereberis: usque eo
+inpellunt obuios et se aliosque praecipitant, cum interim
+cucurrerunt aut salutaturi aliquem non resalutaturum aut
+funus ignoti hominis prosecuturi aut ad iudicium saepe
+litigantis aut ad sponsalia saepe nubentis et lecticam adsectati
+quibusdam locis etiam tulerunt; dein domum cum
+superuacua redeuntes lassitudine iurant nescire se ipsos
+quare exierint, ubi fuerint, postero die erraturi per eadem
+illa uestigia.
+</div>
+<div type="section" n="5">
+Omnis itaque labor aliquo referatur, aliquo
+respiciat. Non industria inquietos sed insanos falsae rerum
+imagines agitant; nam ne illi quidem sine aliqua spe mouentur:
+proritat illos alicuius rei species, cuius uanitatem capta
+mens non coarguit.
+</div>
+<div type="section" n="6">
+Eodem modo unumquemque ex his
+qui ad augendam turbam exeunt inanes et leues causae
+per urbem circumducunt; nihilque habentem in quod laboret
+lux orta expellit et, cum multorum frustra liminibus
+inlisus nomenculatores persalutauit, a multis exclusus
+neminem ex omnibus difficilius domi quam se conuenit.
+</div>
+<div type="section" n="7">
+Ex hoc malo dependet illud taeterrimum uitium, auscultatio
+et publicorum secretorumque inquisitio et multarum
+rerum scientia quae nec tuto narrantur nec tuto audiuntur.
+</div>
+</div>
+<div type="chapter" n="13">
+<div type="section" n="1">
+Hoc secutum puto Democritum ita coepisse: 'qui tranquille
+uolet uiuere nec priuatim agat multa nec publice',
+ad superuacua scilicet referentem. Nam si necessaria sunt,
+et priuatim et publice non tantum multa sed innumerabilia
+agenda sunt; ubi uero nullum officium sollemne nos citat,
+inhibendae actiones.
+</div>
+<div type="section" n="2">
+Nam qui multa agit saepe fortunae
+potestatem sui facit, quam tutissimum est raro experiri,
+ceterum semper de illa cogitare et nihil sibi de fide eius
+promittere: 'nauigabo, nisi si quid inciderit' et 'praetor
+fiam, nisi si quid obstiterit' et 'negotiatio mihi respondebit,
+nisi si quid interuenerit'.
+</div>
+<div type="section" n="3">
+Hoc est quare sapienti nihil
+contra opinionem dicamus accidere: non illum casibus
+hominum excerpimus sed erroribus nec illi omnia ut uoluit
+cedunt, sed ut cogitauit; in primis autem cogitauit aliquid
+posse propositis suis resistere. Necesse est autem leuius ad
+animum peruenire destitutae cupiditatis dolorem cui successum
+non utique promiseris.
+</div>
+</div>
+<div type="chapter" n="14">
+<div type="section" n="1">
+Faciles etiam nos facere debemus, ne nimis destinatis
+rebus indulgeamus, transeamusque in ea in quae nos casus
+deduxerit nec mutationem aut consili aut status pertimescamus,
+dummodo nos leuitas, inimicissimum quieti
+uitium, non excipiat. Nam et pertinacia necesse est anxia
+et misera sit, cui fortuna saepe aliquid extorquet, et
+leuitas multo grauior nusquam se continens. Vtrumque
+infestum est tranquillitati, et nihil mutare posse et nihil
+pati.
+</div>
+<div type="section" n="2">
+Vtique animus ab omnibus externis in se reuocandus
+est: sibi confidat, se gaudeat, sua suspiciat, recedat quantum
+potest ab alienis et se sibi adplicet, damna non sentiat,
+etiam aduersa benigne interpretetur.
+</div>
+<div type="section" n="3">
+Nuntiato naufragio
+Zenon noster, cum omnia sua audiret submersa, 'iubet'
+inquit 'me fortuna expeditius philosophari.' Minabatur
+Theodoro philosopho tyrannus mortem et quidem insepultam:
+'habes' inquit 'cur tibi placeas, hemina sanguinis in
+tua potestate est; nam quod ad sepulturam pertinet, o te
+ineptum, si putas mea interesse supra terram an infra
+putrescam.'
+</div>
+<div type="section" n="4">
+Canus Iulius, uir in primis magnus, cuius
+admirationi ne hoc quidem obstat quod nostro saeculo
+natus est, cum Gaio diu altercatus, postquam abeunti
+Phalaris ille dixit 'ne forte inepta spe tibi blandiaris, duci
+te iussi', 'gratias' inquit 'ago, optime princeps.'
+</div>
+<div type="section" n="5">
+Quid senserit
+dubito; multa enim mihi occurrunt. Contumeliosus
+esse uoluit et ostendere quanta crudelitas esset in qua
+mors beneficium erat? An exprobrauit illi cotidianam dementiam? — agebant
+enim gratias et quorum liberi occisi
+et quorum bona ablata erant. An tamquam libertatem
+libenter accepit? Quidquid est, magno animo respondit.
+</div>
+<div type="section" n="6">
+Dicet aliquis 'potuit post hoc iubere illum Gaius uiuere.'
+Non timuit hoc Canus; nota erat Gai in talibus imperiis
+fides. Credisne illum decem medios usque ad supplicium
+dies sine ulla sollicitudine exegisse? Verisimile non est quae
+uir ille dixerit, quae fecerit, quam in tranquillo fuerit.
+</div>
+<div type="section" n="7">
+Ludebat latrunculis, cum centurio agmen periturorum
+trahens illum quoque excitari iuberet. Vocatus numerauit
+calculos et sodali suo 'uide' inquit 'ne post mortem meam
+mentiaris te uicisse'; tum annuens centurioni 'testis' inquit
+'eris uno me antecedere.' Lusisse tu Canum illa tabula
+putas? inlusit.
+</div>
+<div type="section" n="8">
+Tristes erant amici talem amissuri uirum:
+'quid maesti' inquit 'estis? Vos quaeritis an inmortales
+animae sint: ego iam sciam.' Nec desiit ueritatem in ipso
+fine scrutari et ex morte sua quaestionem habere.
+</div>
+<div type="section" n="9">
+Prosequebatur
+illum philosophus suus nec iam procul erat tumulus
+in quo Caesari deo nostro fiebat cotidianum sacrum:
+is 'quid,' inquit 'Cane, nunc cogitas? aut quae tibi mens
+est?' 'Obseruare' inquit Canus 'proposui illo uelocissimo
+momento an sensurus sit animus exire se', promisitque,
+si quid explorasset, circumiturum amicos et indicaturum
+quis esset animarum status.
+</div>
+<div type="section" n="10">
+Ecce in media tempestate
+tranquillitas, ecce animus aeternitate dignus, qui fatum
+suum in argumentum ueri uocat, qui in ultimo illo gradu
+positus exeuntem animam percontatur nec usque ad mortem
+tantum sed aliquid etiam ex ipsa morte discit: nemo diutius
+philosophatus est. Non raptim relinquetur magnus uir et
+cum cura dicendus: dabimus te in omnem memoriam,
+clarissimum caput, Gaianae cladis magna portio.
+</div>
+</div>
+<div type="chapter" n="15">
+<div type="section" n="1">
+Sed nihil prodest priuatae tristitiae causas abiecisse;
+occupat enim nonnumquam odium generis humani. Cum
+cogitaueris quam sit rara simplicitas et quam ignota innocentia
+et uix umquam nisi cum expedit fides et occurrit
+tot scelerum felicium turba et libidinis lucra damnaque
+pariter inuisa et ambitio usque eo iam se suis non continens
+terminis ut per turpitudinem splendeat, agitur animus in
+noctem et uelut euersis uirtutibus, quas nec sperare licet
+nec habere prodest, tenebrae oboriuntur.
+</div>
+<div type="section" n="2">
+In hoc itaque
+flectendi sumus, ut omnia uulgi uitia non inuisa nobis sed
+ridicula uideantur et Democritum potius imitemur quam
+Heraclitum. Hic enim, quotiens in publicum processerat,
+flebat, ille ridebat, huic omnia quae agimus miseriae, illi
+ineptiae uidebantur. Eleuanda ergo omnia et facili animo
+ferenda: humanius est deridere uitam quam deplorare.
+</div>
+<div type="section" n="3">
+Adice quod de humano quoque genere melius meretur
+qui ridet illud quam qui luget: ille ei spei bonae aliquid
+relinquit, hic autem stulte deflet quae corrigi posse desperat;
+et uniuersa contemplanti maioris animi est qui risum non
+tenet quam qui lacrimas, quando lenissimum adfectum
+animi mouet et nihil magnum, nihil seuerum, ne miserum
+quidem ex tanto paratu putat.
+</div>
+<div type="section" n="4">
+Singula propter quae laeti
+ac tristes sumus sibi quisque proponat et sciet uerum esse
+quod Bion dixit, omnia hominum negotia simillima initiis
+esse nec uitam illorum magis sanctam aut seueram esse
+quam conceptum, &lt;in nihilum redigi ex&gt; nihilo natos.
+</div>
+<div type="section" n="5">
+Sed
+satius est publicos mores et humana uitia placide accipere
+nec in risum nec in lacrimas excidentem; nam alienis malis
+torqueri aeterna miseria est, alienis delectari malis uoluptas
+inhumana, sicut illa inutilis humanitas flere, quia aliquis
+filium efferat, et frontem suam fingere.
+</div>
+<div type="section" n="6">
+In suis quoque malis
+ita gerere se oportet ut dolori tantum des quantum &lt;natura&gt;
+poscit, non quantum consuetudo; plerique enim lacrimas
+fundunt ut ostendant et totiens siccos oculos habent
+quotiens spectator defuit, turpe iudicantes non flere cum
+omnes faciant: adeo penitus hoc se malum fixit, ex aliena
+opinione pendere, ut in simulationem etiam res simplicissima,
+dolor, ueniat.
+</div>
+</div>
+<div type="chapter" n="16">
+<div type="section" n="1">
+Sequitur pars quae solet non inmerito contristare et in
+sollicitudinem adducere. Vbi bonorum exitus mali sunt,
+ubi Socrates cogitur in carcere mori, Rutilius in exilio
+uiuere, Pompeius et Cicero clientibus suis praebere ceruicem,
+Cato ille, uirtutium uiua imago, incumbens gladio
+simul de se ac de re publica palam facere, necesse est torqueri
+tam iniqua praemia fortunam persoluere; et quid
+sibi quisque tunc speret, cum uideat pessima optimos pati?
+</div>
+<div type="section" n="2">
+Quid ergo est? Vide quomodo quisque illorum tulerit et,
+si fortes fuerunt, ipsorum illos animo desidera, si muliebriter
+et ignaue perierunt, nihil perît: aut digni sunt
+quorum uirtus tibi placeat, aut indigni quorum desideretur
+ignauia. Quid enim est turpius quam si maximi uiri
+timidos fortiter moriendo faciunt?
+</div>
+<div type="section" n="3">
+Laudemus totiens dignum
+laudibus et dicamus: 'tanto fortior, tanto felicior!
+Omnes effugisti casus, liuorem, morbum; existi ex custodia;
+non tu dignus mala fortuna dis uisus es, sed indignus
+in quem iam aliquid fortuna posset.' Subducentibus uero
+se et in ipsa morte ad uitam respectantibus manus iniciendae
+sunt.
+</div>
+<div type="section" n="4">
+Neminem flebo laetum, neminem flentem: ille
+lacrimas meas ipse abstersit, hic suis lacrimis effecit ne
+ullis dignus sit. Ego Herculem fleam quod uiuus uritur,
+aut Regulum quod tot clauis configitur, aut Catonem quod
+uulnera &lt;uulnerat&gt; sua? Omnes isti leui temporis inpensa
+inuenerunt quomodo aeterni fierent, et ad inmortalitatem
+moriendo uenerunt.
+</div>
+</div>
+<div type="chapter" n="17">
+<div type="section" n="1">
+Est et illa sollicitudinum non mediocris materia, si te
+anxie componas nec ullis simpliciter ostendas, qualis multorum
+uita est, ficta, ostentationi parata; torquet enim
+adsidua obseruatio sui et deprendi aliter ac solet metuit.
+Nec umquam cura soluimur, ubi totiens nos aestimari putamus
+quotiens aspici; nam et multa incidunt quae inuitos
+denudent et, ut bene cedat tanta sui diligentia, non tamen
+iucunda uita aut secura est semper sub persona uiuentium.
+</div>
+<div type="section" n="2">
+At illa quantum habet uoluptatis sincera et per se inornata
+simplicitas, nihil obtendens moribus suis! Subit tamen et
+haec uita contemptus periculum, si omnia omnibus patent;
+sunt enim qui fastidiant quidquid propius adierunt. Sed nec
+uirtuti periculum est ne admota oculis reuilescat et satius
+est simplicitate contemni quam perpetua simulatione torqueri.
+Modum tamen rei adhibeamus: multum interest,
+simpliciter uiuas an neglegenter.
+</div>
+<div type="section" n="3">
+Multum et in se recedendum est; conuersatio enim dissimilium
+bene composita disturbat et renouat adfectus et
+quidquid inbecillum in animo nec percuratum est exulcerat.
+Miscenda tamen ista et alternanda sunt, solitudo et frequentia:
+illa nobis faciet hominum desiderium, haec nostri, et
+erit altera alterius remedium; odium turbae sanabit solitudo,
+taedium solitudinis turba.
+</div>
+<div type="section" n="4">
+Nec in eadem intentione aequaliter retinenda mens est,
+sed ad iocos deuocanda. Cum puerulis Socrates ludere non
+erubescebat et Cato uino laxabat animum curis publicis
+fatigatum et Scipio triumphale illud ac militare corpus
+mouebat ad numeros, non molliter se infringens, ut nunc
+mos est etiam incessu ipso ultra muliebrem mollitiam fluentibus,
+sed ut antiqui illi uiri solebant inter lusum ac festa
+tempora uirilem in modum tripudiare, non facturi detrimentum,
+etiam si ab hostibus suis spectarentur.
+</div>
+<div type="section" n="5">
+Danda
+est animis remissio: meliores acrioresque requieti surgent.
+Vt fertilibus agris non est imperandum — cito enim illos
+exhauriet numquam intermissa fecunditas — ita animorum
+impetus adsiduus labor franget, uires recipient paulum resoluti
+et remissi; nascitur ex adsiduitate laborum animorum
+hebetatio quaedam et languor.
+</div>
+<div type="section" n="6">
+Nec ad hoc tanta hominum
+cupiditas tenderet, nisi naturalem quandam uoluptatem
+haberet lusus iocusque; quorum frequens usus omne animis
+pondus omnemque uim eripiet; nam et somnus refectioni
+necessarius est, hunc tamen semper si diem noctemque
+continues, mors erit. Multum interest, remittas aliquid an
+soluas.
+</div>
+<div type="section" n="7">
+Legum conditores festos instituerunt dies, ut ad
+hilaritatem homines publice cogerentur, tamquam necessarium
+laboribus interponentes temperamentum; et magni,
+ut dixi, uiri quidam sibi menstruas certis diebus ferias
+dabant, quidam nullum non diem inter otium et curas diuidebant.
+Qualem Pollionem Asinium oratorem magnum
+meminimus, quem nulla res ultra decumam retinuit; ne
+epistulas quidem post eam horam legebat, ne quid nouae
+curae nasceretur, sed totius diei lassitudinem duabus illis
+horis ponebat. Quidam medio die interiunxerunt et in
+postmeridianas horas aliquid leuioris operae distulerunt.
+Maiores quoque nostri nouam relationem post horam decumam
+in senatu fieri uetabant. Miles uigilias diuidit, et nox
+immunis est ab expeditione redeuntium.
+</div>
+<div type="section" n="8">
+Indulgendum est
+animo dandumque subinde otium quod alimenti ac uirium
+loco sit. Et in ambulationibus apertis uagandum, ut caelo
+libero et multo spiritu augeat attollatque se animus; aliquando
+uectatio iterque et mutata regio uigorem dabunt
+conuictusque et liberalior potio. Non numquam et usque
+ad ebrietatem ueniendum, non ut mergat nos sed ut deprimat;
+eluit enim curas et ab imo animum mouet et ut
+morbis quibusdam ita tristitiae medetur, Liberque non ob
+licentiam linguae dictus est [inuentor uini] sed quia liberat
+seruitio curarum animum et adserit uegetatque et audaciorem
+in omnis conatus facit.
+</div>
+<div type="section" n="9">
+Sed ut libertatis ita uini
+salubris moderatio est. Solonem Arcesilanque indulsisse
+uino credunt, Catoni ebrietas obiecta est: facilius efficiet,
+quisquis obiecit [et], crimen honestum quam turpem
+Catonem. Sed nec saepe faciendum est, ne animus malam
+consuetudinem ducat, et aliquando tamen in exultationem
+libertatemque extrahendus tristisque sobrietas remouenda
+paulisper.
+</div>
+<div type="section" n="10">
+Nam siue Graeco poetae credimus 'aliquando et
+insanire iucundum est', siue Platoni 'frustra poeticas fores
+compos sui pepulit', siue Aristoteli 'nullum magnum ingenium
+sine mixtura dementiae fuit': non potest grande
+aliquid et super ceteros loqui nisi mota mens.
+</div>
+<div type="section" n="11">
+Cum uulgaria
+et solita contempsit instinctuque sacro surrexit excelsior,
+tunc demum aliquid cecinit grandius ore mortali. Non
+potest sublime quicquam et in arduo positum contingere
+quam diu apud se est: desciscat oportet a solito et efferatur
+et mordeat frenos et rectorem rapiat suum eoque ferat quo
+per se timuisset escendere.
+</div>
+<div type="section" n="12">
+Habes, Serene carissime, quae possint tranquillitatem
+tueri, quae restituere, quae subrepentibus uitiis resistant;
+illud tamen scito, nihil horum satis esse ualidum rem
+inbecillam seruantibus, nisi intenta et adsidua cura circumit
+animum labentem.
+</div>
+</div>
+</div>
+   </body>
+ </text>
+</TEI>
