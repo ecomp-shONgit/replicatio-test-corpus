@@ -1,6 +1,9 @@
 # replicatio-test-corpus
 This is the corpus of Greek and Latin text samples providing the replicatio test cases.
 
+## regular and normalized
+There are the regular XML files (folder gr and la), and txt files that contain a normalized version of the text (folder gr_norm and la_norm).
+
 ## Griechisch
 | Werk                                  | Abkürzung      |  TLG-Nr.   | Ausgabe des TLG                                                                                        | CTS-URN bei Perseus              | replicatio file |
 | -------------                         | -------------  | -----------| -------------                                                                                          | ------------- | ------------- |
